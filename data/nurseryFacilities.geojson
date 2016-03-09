@@ -643,7 +643,7 @@
     "Y":34.846663,
     "X":135.623474,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/ote.html",
-    "Vacancy":null,
+    "Vacancy":"テスト",
     "VacancyDate":null
     }
   },
