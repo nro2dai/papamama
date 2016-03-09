@@ -401,7 +401,7 @@ Papamamap.prototype.getPopupContent = function(feature)
         content += '<th>欠員</th>';
         content += '<td>';
         var vacancy = feature.get('Vacancy') ? feature.get('Vacancy') : feature.get('Vacancy');
-        if (vacancy !== undefined && vacancy !== null) {
+        if (vacancy !== undefined && vacancy !== null && vacancy !== "") {
             content += '<a href="http://www.city.takatsuki.osaka.jp/waiwaicafe/" target="_blank">空きあり</a>';
         }
         var vacancyDate = feature.get('VacancyDate');
