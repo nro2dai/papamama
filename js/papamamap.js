@@ -368,16 +368,16 @@ Papamamap.prototype.getPopupContent = function(feature)
         content += '<tr>';
         content += '<th></th>';
         content += '<td>';
-        if (temp !== undefined && temp !== null) {
+        if (temp !== undefined && temp !== null && temp !== "") {
             content += '一時保育 ';
         }
-        if (holiday !== undefined && holiday !== null) {
+        if (holiday !== undefined && holiday !== null && holiday !== "") {
             content += '休日保育 ';
         }
-        if (night !== undefined && night !== null) {
+        if (night !== undefined && night !== null && night !== "") {
             content += '夜間保育 ';
         }
-        if (h24 !== undefined && h24 !== null) {
+        if (h24 !== undefined && h24 !== null && h24 !== "") {
             content += '24時間 ';
         }
         content += '</td>';
