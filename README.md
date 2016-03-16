@@ -26,7 +26,7 @@ http://user.linkdata.org/search?category=all&keyword=%E9%AB%98%E6%A7%BB%E5%B8%82
 
 このソフトウェアは、MITライセンスでのもとで公開されています。LICENSE.txtを見てください。
 
-#更新履歴
+###更新履歴
 
 2016.3.16　公開（2015年8月11日時点　保育施設情報)
 
