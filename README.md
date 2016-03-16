@@ -15,7 +15,9 @@
 
 高槻市オープンデータ
 http://www.city.takatsuki.osaka.jp/kakuka/soumu/itseisak/gyomuannai/opendata/opendata.html
+
 LinkData.org
+
 http://user.linkdata.org/search?category=all&keyword=%E9%AB%98%E6%A7%BB%E5%B8%82&start=0&resultType=detail&resultSort=popularity
 
 
