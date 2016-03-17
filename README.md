@@ -24,7 +24,7 @@ http://user.linkdata.org/search?category=all&keyword=%E9%AB%98%E6%A7%BB%E5%B8%82
 
 ## ライセンスについて
 
-このソフトウェアは、MITライセンスでのもとで公開されています。LICENSE.txtを見てください。
+このソフトウェアは、MITライセンスでのもとで公開されています。LICENSE.txtをご確認ください。
 
 ###更新履歴
 
