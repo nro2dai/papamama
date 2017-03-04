@@ -385,7 +385,7 @@ Papamamap.prototype.getPopupContent = function(feature)
     }
 
     var type = feature.get('種別') ? feature.get('種別') : feature.get('Type');
-    if(type == "認可外") {
+    if(type == "認可外" || type == "認可外保育所") {
         content += '<tr>';
         content += '<th>監督基準</th>';
         content += '<td>';
