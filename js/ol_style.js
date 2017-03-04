@@ -4,7 +4,7 @@
  */
 var featureStyleList = {
 	'default': { color: 'rgba(153, 153, 153, 1)', img: 'image/018.png'},
-	'認可外': { color: '#0362A0', img: 'image/019.png'},
+	'認可外保育所': { color: '#0362A0', img: 'image/019.png'},
 	'幼稚園': { color: '#FF5C24', img: 'image/029.png'},
 	'認可保育所': { color: '#6EE100', img: 'image/018.png'}
 };
@@ -36,7 +36,7 @@ var ninkagaiStyleFunction = function(feature, resolution)
 {
 	var facilityTypeName = feature.get('種別') ? feature.get('種別') : feature.get('Type');
 	var style = [];
-	if(facilityTypeName === "認可外") {
+	if(facilityTypeName === "認可外保育所") {
 		featureStyle = featureStyleList[facilityTypeName];
 		style        = nurseryStyleFunction(feature, resolution, featureStyle);
 	}
