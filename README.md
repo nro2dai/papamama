@@ -29,4 +29,5 @@ http://user.linkdata.org/search?category=all&keyword=%E9%AB%98%E6%A7%BB%E5%B8%82
 ###更新履歴
 
 2016.3.16　公開（2015年8月11日時点　保育施設情報)
+
 2017.3.4　 更新（2016年12月20日時点 保育施設情報）
