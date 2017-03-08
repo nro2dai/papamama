@@ -2821,7 +2821,7 @@
     },
     "properties": {
     "HID":75,
-    "Type":"認可保育所",
+    "Type":"認可外",
     "Kodomo":"",
     "Name":"ひよこ共同保育所",
     "Label":"ひよこ共同保育所",
@@ -2859,7 +2859,7 @@
     },
     "properties": {
     "HID":76,
-    "Type":"認可保育所",
+    "Type":"認可外",
     "Kodomo":"",
     "Name":"清和保育園",
     "Label":"清和保育園",
@@ -2897,7 +2897,7 @@
     },
     "properties": {
     "HID":77,
-    "Type":"認可保育所",
+    "Type":"認可外",
     "Kodomo":"",
     "Name":"Ｆ．Ｋｉｄｓ",
     "Label":"Ｆ．Ｋｉｄｓ",
