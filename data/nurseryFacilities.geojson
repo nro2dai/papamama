@@ -553,7 +553,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -591,7 +591,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -629,7 +629,7 @@
     "H24":"",
     "Memo":"18:15-19:15",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -667,7 +667,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -705,7 +705,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -775,7 +775,7 @@
     "Label":"ずし保育園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"90",
+    "Full":"120",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
@@ -803,7 +803,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.636598,34.84398 ]
+       "coordinates":  [ 135.636598,34.843980 ]
     },
     "properties": {
     "HID":22,
@@ -819,7 +819,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -851,7 +851,7 @@
     "Label":"郡家保育園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"140",
+    "Full":"150",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
@@ -889,13 +889,13 @@
     "Label":"川添保育園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"90",
+    "Full":"120",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -933,7 +933,7 @@
     "H24":"",
     "Memo":"18:01-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -971,7 +971,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1009,7 +1009,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1047,7 +1047,7 @@
     "H24":"",
     "Memo":"7:00-7:30、18:30-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1073,19 +1073,19 @@
     },
     "properties": {
     "HID":29,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"愛光認定こども園",
     "Label":"愛光認定こども園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"90",
+    "Full":"110",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1123,7 +1123,7 @@
     "H24":"",
     "Memo":"18:01-20:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1161,7 +1161,7 @@
     "H24":"",
     "Memo":"18:00-20:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1187,7 +1187,7 @@
     },
     "properties": {
     "HID":32,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"和光認定こども園",
     "Label":"和光認定こども園",
@@ -1199,7 +1199,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1297,7 +1297,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.61908,34.851337 ]
+       "coordinates":  [ 135.619080,34.851337 ]
     },
     "properties": {
     "HID":35,
@@ -1411,7 +1411,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.60516,34.868853 ]
+       "coordinates":  [ 135.605160,34.868853 ]
     },
     "properties": {
     "HID":38,
@@ -1423,9 +1423,9 @@
     "AgeE":"５歳児",
     "Full":"30",
     "Open":"7:30",
-    "Close":"19:30",
+    "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
@@ -1453,7 +1453,7 @@
     },
     "properties": {
     "HID":39,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"桜台認定こども園",
     "Label":"桜台認定こども園",
@@ -1473,7 +1473,7 @@
     "TEL":"072-674-5630",
     "FAX":"072-674-5635",
     "Owner":"",
-    "Ownership":"民間認定こども園",
+    "Ownership":"公立認定こども園",
     "Proof":"",
     "Shanai":"",
     "Y":34.830892,
@@ -1491,7 +1491,7 @@
     },
     "properties": {
     "HID":40,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　玉川橋保育園",
     "Label":"認定こども園　玉川橋保育園",
@@ -1503,7 +1503,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1525,11 +1525,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.631647,34.84177 ]
+       "coordinates":  [ 135.631647,34.841770 ]
     },
     "properties": {
     "HID":41,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　藤の里保育園",
     "Label":"認定こども園　藤の里保育園",
@@ -1541,7 +1541,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1563,11 +1563,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.600753,34.79418 ]
+       "coordinates":  [ 135.600753,34.794180 ]
     },
     "properties": {
     "HID":42,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　柱本保育園　こども未来学舎",
     "Label":"認定こども園　柱本保育園　こども未来学舎",
@@ -1579,7 +1579,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1601,11 +1601,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.612244,34.87085 ]
+       "coordinates":  [ 135.612244,34.870850 ]
     },
     "properties": {
     "HID":43,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　日吉台保育園",
     "Label":"認定こども園　日吉台保育園",
@@ -1617,7 +1617,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1643,7 +1643,7 @@
     },
     "properties": {
     "HID":44,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"浦堂認定こども園",
     "Label":"浦堂認定こども園",
@@ -1655,7 +1655,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1681,7 +1681,7 @@
     },
     "properties": {
     "HID":45,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　津之江さくら保育園",
     "Label":"認定こども園　津之江さくら保育園",
@@ -1693,7 +1693,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1719,7 +1719,7 @@
     },
     "properties": {
     "HID":46,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"阿武山たつの子　認定こども園",
     "Label":"阿武山たつの子　認定こども園",
@@ -1731,7 +1731,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1757,7 +1757,7 @@
     },
     "properties": {
     "HID":47,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　聖ヶ丘保育園　こども未来学舎",
     "Label":"認定こども園　聖ヶ丘保育園　こども未来学舎",
@@ -1769,7 +1769,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1795,7 +1795,7 @@
     },
     "properties": {
     "HID":48,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　深沢ガーデン",
     "Label":"認定こども園　深沢ガーデン",
@@ -1807,7 +1807,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1833,7 +1833,7 @@
     },
     "properties": {
     "HID":49,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"摂津峡認定こども園",
     "Label":"摂津峡認定こども園",
@@ -1845,7 +1845,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -1871,10 +1871,10 @@
     },
     "properties": {
     "HID":50,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
-    "Name":"認定こども園　日吉幼稚園　ひよしおひさま保育園",
-    "Label":"認定こども園　日吉幼稚園　ひよしおひさま保育園",
+    "Name":"認定こども園　日吉幼稚園",
+    "Label":"認定こども園　日吉幼稚園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
     "Full":"96",
@@ -1883,12 +1883,12 @@
     "H24":"",
     "Memo":"18:15-19:15",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
     "Add2":"日吉台六番町１０−２",
-    "TEL":"072-688-6500",
+    "TEL":"072-688-6101",
     "FAX":"072-688-6555",
     "Owner":"",
     "Ownership":"民間認定こども園",
@@ -1909,7 +1909,7 @@
     },
     "properties": {
     "HID":51,
-    "Type":"認可保育所",
+    "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園いまむらこどもえん",
     "Label":"認定こども園いまむらこどもえん",
@@ -1943,11 +1943,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.59128,34.844724 ]
+       "coordinates":  [ 135.591280,34.844724 ]
     },
     "properties": {
     "HID":52,
-    "Type":"認可保育所",
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"桜北町第二保育園",
     "Label":"桜北町第二保育園",
@@ -1981,49 +1981,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.630367,34.823168 ]
-    },
-    "properties": {
-    "HID":53,
-    "Type":"認可保育所",
-    "Kodomo":"",
-    "Name":"大塚いきいき園",
-    "Label":"大塚いきいき園",
-    "AgeS":"０歳児",
-    "AgeE":"２歳児",
-    "Full":"17",
-    "Open":"7:00",
-    "Close":"19:00",
-    "H24":"",
-    "Memo":"7:00-7:30,18:30-19:00",
-    "Extra":"",
-    "Temp":"Y",
-    "Holiday":"",
-    "Night":"",
-    "Add1":"大阪府高槻市",
-    "Add2":"大塚町五丁目８−５",
-    "TEL":"072-669-8036",
-    "FAX":"",
-    "Owner":"",
-    "Ownership":"小規模保育事業",
-    "Proof":"",
-    "Shanai":"",
-    "Y":34.823168,
-    "X":135.630367,
-    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/otsuka_ikiiki.html",
-    "Vacancy":"",
-    "VacancyDate":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 135.623002,34.839544 ]
     },
     "properties": {
-    "HID":54,
-    "Type":"認可保育所",
+    "HID":53,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"すくすくサポート・たんぽぽ保育園",
     "Label":"すくすくサポート・たんぽぽ保育園",
@@ -2060,8 +2022,8 @@
        "coordinates":  [ 135.608781,34.840381 ]
     },
     "properties": {
-    "HID":55,
-    "Type":"認可保育所",
+    "HID":54,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"マルヤマ保育所",
     "Label":"マルヤマ保育所",
@@ -2098,8 +2060,8 @@
        "coordinates":  [ 135.659325,34.871468 ]
     },
     "properties": {
-    "HID":56,
-    "Type":"認可保育所",
+    "HID":55,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"かんまき駅前保育園",
     "Label":"かんまき駅前保育園",
@@ -2136,8 +2098,8 @@
        "coordinates":  [ 135.628444,34.848678 ]
     },
     "properties": {
-    "HID":57,
-    "Type":"認可保育所",
+    "HID":56,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"みなみまつばら保育園",
     "Label":"みなみまつばら保育園",
@@ -2174,8 +2136,8 @@
        "coordinates":  [ 135.595703,34.847724 ]
     },
     "properties": {
-    "HID":58,
-    "Type":"認可保育所",
+    "HID":57,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"にこにこ保育園",
     "Label":"にこにこ保育園",
@@ -2212,15 +2174,15 @@
        "coordinates":  [ 135.609181,34.855941 ]
     },
     "properties": {
-    "HID":59,
-    "Type":"認可保育所",
+    "HID":58,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"風の子保育園",
     "Label":"風の子保育園",
     "AgeS":"０歳児",
     "AgeE":"２歳児",
     "Full":"19",
-    "Open":"7:00",
+    "Open":"7:30 7:00",
     "Close":"19:00",
     "H24":"",
     "Memo":"18:30-19:00",
@@ -2250,8 +2212,8 @@
        "coordinates":  [ 135.607633,34.839826 ]
     },
     "properties": {
-    "HID":60,
-    "Type":"認可保育所",
+    "HID":59,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"津之江小規模保育園",
     "Label":"津之江小規模保育園",
@@ -2288,8 +2250,8 @@
        "coordinates":  [ 135.638696,34.847366 ]
     },
     "properties": {
-    "HID":61,
-    "Type":"認可保育所",
+    "HID":60,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"スプラウトキッズ",
     "Label":"スプラウトキッズ",
@@ -2326,8 +2288,8 @@
        "coordinates":  [ 135.598868,34.825075 ]
     },
     "properties": {
-    "HID":62,
-    "Type":"認可保育所",
+    "HID":61,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"さくらんぼハウス",
     "Label":"さくらんぼハウス",
@@ -2364,8 +2326,8 @@
        "coordinates":  [ 135.637419,34.849105 ]
     },
     "properties": {
-    "HID":63,
-    "Type":"認可保育所",
+    "HID":62,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"キッズルームふたば",
     "Label":"キッズルームふたば",
@@ -2402,8 +2364,8 @@
        "coordinates":  [ 135.589469,34.826445 ]
     },
     "properties": {
-    "HID":64,
-    "Type":"認可保育所",
+    "HID":63,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ユメ小規模保育園",
     "Label":"ユメ小規模保育園",
@@ -2440,8 +2402,8 @@
        "coordinates":  [ 135.615073,34.867357 ]
     },
     "properties": {
-    "HID":65,
-    "Type":"認可保育所",
+    "HID":64,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ちびっこランド日吉園",
     "Label":"ちびっこランド日吉園",
@@ -2475,11 +2437,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.59117,34.838179 ]
+       "coordinates":  [ 135.591170,34.838179 ]
     },
     "properties": {
-    "HID":66,
-    "Type":"認可保育所",
+    "HID":65,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"桜北町第三保育園",
     "Label":"桜北町第三保育園",
@@ -2489,7 +2451,7 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"7:00-7:30 18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
@@ -2516,8 +2478,8 @@
        "coordinates":  [ 135.605165,34.868149 ]
     },
     "properties": {
-    "HID":67,
-    "Type":"認可保育所",
+    "HID":66,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"スズラン保育園",
     "Label":"スズラン保育園",
@@ -2554,8 +2516,8 @@
        "coordinates":  [ 135.616205,34.853522 ]
     },
     "properties": {
-    "HID":68,
-    "Type":"認可保育所",
+    "HID":67,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"芥川赤ちゃんクラブ",
     "Label":"芥川赤ちゃんクラブ",
@@ -2592,8 +2554,8 @@
        "coordinates":  [ 135.619515,34.849177 ]
     },
     "properties": {
-    "HID":69,
-    "Type":"認可保育所",
+    "HID":68,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ＮＯＺＯＭＩ保育園",
     "Label":"ＮＯＺＯＭＩ保育園",
@@ -2630,8 +2592,8 @@
        "coordinates":  [ 135.616318,34.839267 ]
     },
     "properties": {
-    "HID":70,
-    "Type":"認可保育所",
+    "HID":69,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ひかり保育園",
     "Label":"ひかり保育園",
@@ -2668,8 +2630,8 @@
        "coordinates":  [ 135.633597,34.822521 ]
     },
     "properties": {
-    "HID":71,
-    "Type":"認可保育所",
+    "HID":70,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ゆめの保育園",
     "Label":"ゆめの保育園",
@@ -2703,11 +2665,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.613963,34.83987 ]
+       "coordinates":  [ 135.613963,34.839870 ]
     },
     "properties": {
-    "HID":72,
-    "Type":"認可保育所",
+    "HID":71,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"庄所保育園",
     "Label":"庄所保育園",
@@ -2744,12 +2706,12 @@
        "coordinates":  [ 135.599501,34.871393 ]
     },
     "properties": {
-    "HID":73,
-    "Type":"認可保育所",
+    "HID":72,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"エンゼル園",
     "Label":"エンゼル園",
-    "AgeS":"０歳児",
+    "AgeS":"１歳児",
     "AgeE":"２歳児",
     "Full":"6",
     "Open":"8:00",
@@ -2782,8 +2744,8 @@
        "coordinates":  [ 135.629724,34.850203 ]
     },
     "properties": {
-    "HID":74,
-    "Type":"認可保育所",
+    "HID":73,
+    "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"のばら保育園たかつき",
     "Label":"のばら保育園たかつき",
@@ -2817,11 +2779,201 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.622613,34.847698 ]
+       "coordinates":  [ 135.637419,34.849105 ]
+    },
+    "properties": {
+    "HID":74,
+    "Type":"認定こども園",
+    "Kodomo":"",
+    "Name":"幼稚園型認定こども園　高槻双葉幼稚園",
+    "Label":"幼稚園型認定こども園　高槻双葉幼稚園",
+    "AgeS":"３歳児",
+    "AgeE":"５歳児",
+    "Full":"60",
+    "Open":"7:30",
+    "Close":"18:30",
+    "H24":"",
+    "Memo":"",
+    "Extra":"",
+    "Temp":"Y",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"宮野町２１−１８",
+    "TEL":"072-675-0250",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"民間認定こども園",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.849105,
+    "X":135.637419,
+    "url":"",
+    "Vacancy":"",
+    "VacancyDate":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.610642,34.852512 ]
     },
     "properties": {
     "HID":75,
-    "Type":"認可外",
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"ＮＯＺＯＭＩ保育園　芥川園",
+    "Label":"ＮＯＺＯＭＩ保育園　芥川園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"19",
+    "Open":"7:00",
+    "Close":"19:00",
+    "H24":"",
+    "Memo":"18:00-19:00",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"芥川町４丁目６−２３",
+    "TEL":"072-648-3305",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.852512,
+    "X":135.610642,
+    "url":"",
+    "Vacancy":"",
+    "VacancyDate":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.604972,34.823303 ]
+    },
+    "properties": {
+    "HID":76,
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"すくすくサポート・ひまわり保育園",
+    "Label":"すくすくサポート・ひまわり保育園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"19",
+    "Open":"7:00",
+    "Close":"19:00",
+    "H24":"",
+    "Memo":"7:00-7:30、18:30-19:00",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"川添２丁目３−１",
+    "TEL":"072-601-5656",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.823303,
+    "X":135.604972,
+    "url":"",
+    "Vacancy":"",
+    "VacancyDate":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.625116,34.849941 ]
+    },
+    "properties": {
+    "HID":77,
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"城北あゆみ保育園",
+    "Label":"城北あゆみ保育園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"19",
+    "Open":"7:00",
+    "Close":"19:00",
+    "H24":"",
+    "Memo":"18:00-19:00",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"城北町２丁目９−３０（１F）",
+    "TEL":"072-648-3123",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.849941,
+    "X":135.625116,
+    "url":"",
+    "Vacancy":"",
+    "VacancyDate":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.599195,34.864908 ]
+    },
+    "properties": {
+    "HID":78,
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"ナナイロ保育園",
+    "Label":"ナナイロ保育園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"15",
+    "Open":"7:30",
+    "Close":"19:00",
+    "H24":"",
+    "Memo":"18:30-19:00",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"宮之川原４丁目１８−１",
+    "TEL":"072-687-2772",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.864908,
+    "X":135.599195,
+    "url":"",
+    "Vacancy":"",
+    "VacancyDate":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.622613,34.847698 ]
+    },
+    "properties": {
+    "HID":79,
+    "Type":"認定保育施設",
     "Kodomo":"",
     "Name":"ひよこ共同保育所",
     "Label":"ひよこ共同保育所",
@@ -2833,7 +2985,7 @@
     "H24":"",
     "Memo":"応相談",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -2858,8 +3010,8 @@
        "coordinates":  [ 135.616192,34.816488 ]
     },
     "properties": {
-    "HID":76,
-    "Type":"認可外",
+    "HID":80,
+    "Type":"認定保育施設",
     "Kodomo":"",
     "Name":"清和保育園",
     "Label":"清和保育園",
@@ -2871,7 +3023,7 @@
     "H24":"",
     "Memo":"応相談",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -2896,8 +3048,8 @@
        "coordinates":  [ 135.614655,34.840267 ]
     },
     "properties": {
-    "HID":77,
-    "Type":"認可外",
+    "HID":81,
+    "Type":"認定保育施設",
     "Kodomo":"",
     "Name":"Ｆ．Ｋｉｄｓ",
     "Label":"Ｆ．Ｋｉｄｓ",
@@ -2909,7 +3061,7 @@
     "H24":"",
     "Memo":"応相談",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -2934,8 +3086,8 @@
        "coordinates":  [ 135.619212,34.855292 ]
     },
     "properties": {
-    "HID":78,
-    "Type":"認可外",
+    "HID":82,
+    "Type":"認可外保育施設",
     "Kodomo":"",
     "Name":"チャムきっずぱーく",
     "Label":"チャムきっずぱーく",
@@ -2947,7 +3099,7 @@
     "H24":"",
     "Memo":"",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -2972,8 +3124,8 @@
        "coordinates":  [ 135.591805,34.845162 ]
     },
     "properties": {
-    "HID":79,
-    "Type":"認可外",
+    "HID":83,
+    "Type":"認可外保育施設",
     "Kodomo":"",
     "Name":"グローバルヴィレッジ　インターナショナルプレスクール　高槻校",
     "Label":"グローバルヴィレッジ　インターナショナルプレスクール　高槻校",
@@ -3007,49 +3159,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.603256,34.849054 ]
-    },
-    "properties": {
-    "HID":80,
-    "Type":"認可外",
-    "Kodomo":"",
-    "Name":"きらきら園",
-    "Label":"きらきら園",
-    "AgeS":"０歳児",
-    "AgeE":"２歳児",
-    "Full":"12",
-    "Open":"8:00",
-    "Close":"18:00",
-    "H24":"",
-    "Memo":"18:00-19:00",
-    "Extra":"",
-    "Temp":"",
-    "Holiday":"",
-    "Night":"",
-    "Add1":"大阪府高槻市",
-    "Add2":"川西町一丁目３０−２０",
-    "TEL":"072-658-8678",
-    "FAX":"",
-    "Owner":"",
-    "Ownership":"認可外保育施設",
-    "Proof":"",
-    "Shanai":"",
-    "Y":34.849054,
-    "X":135.603256,
-    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/1406765076135.html",
-    "Vacancy":"",
-    "VacancyDate":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 135.617522,34.840222 ]
     },
     "properties": {
-    "HID":81,
-    "Type":"認可外",
+    "HID":84,
+    "Type":"認可外保育施設",
     "Kodomo":"",
     "Name":"あいあいひろば",
     "Label":"あいあいひろば",
@@ -3061,7 +3175,7 @@
     "H24":"",
     "Memo":"18:00-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -3086,8 +3200,8 @@
        "coordinates":  [ 135.615728,34.853936 ]
     },
     "properties": {
-    "HID":82,
-    "Type":"認可外",
+    "HID":85,
+    "Type":"認可外保育施設",
     "Kodomo":"",
     "Name":"キンダーキッズ　インターナショナルスクール　高槻校",
     "Label":"キンダーキッズ　インターナショナルスクール　高槻校",
@@ -3124,8 +3238,8 @@
        "coordinates":  [ 135.589375,34.826407 ]
     },
     "properties": {
-    "HID":83,
-    "Type":"認可外",
+    "HID":86,
+    "Type":"認可外保育施設",
     "Kodomo":"",
     "Name":"夢保育園",
     "Label":"夢保育園",
@@ -3137,7 +3251,7 @@
     "H24":"",
     "Memo":"18:00-19:30",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -3162,8 +3276,8 @@
        "coordinates":  [ 135.623046,34.836477 ]
     },
     "properties": {
-    "HID":84,
-    "Type":"認可外",
+    "HID":87,
+    "Type":"認可外保育施設",
     "Kodomo":"",
     "Name":"つばさ保育園",
     "Label":"つばさ保育園",
@@ -3175,7 +3289,7 @@
     "H24":"",
     "Memo":"18:00-20:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
@@ -3200,7 +3314,7 @@
        "coordinates":  [ 135.626838,34.845478 ]
     },
     "properties": {
-    "HID":85,
+    "HID":88,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"高槻幼稚園",
@@ -3238,7 +3352,7 @@
        "coordinates":  [ 135.613282,34.854639 ]
     },
     "properties": {
-    "HID":86,
+    "HID":89,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"芥川幼稚園",
@@ -3276,7 +3390,7 @@
        "coordinates":  [ 135.58566,34.850949 ]
     },
     "properties": {
-    "HID":87,
+    "HID":90,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"阿武野幼稚園",
@@ -3314,7 +3428,7 @@
        "coordinates":  [ 135.652678,34.862007 ]
     },
     "properties": {
-    "HID":88,
+    "HID":91,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"五領幼稚園",
@@ -3352,7 +3466,7 @@
        "coordinates":  [ 135.597843,34.865798 ]
     },
     "properties": {
-    "HID":89,
+    "HID":92,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"清水幼稚園",
@@ -3390,7 +3504,7 @@
        "coordinates":  [ 135.628592,34.86196 ]
     },
     "properties": {
-    "HID":90,
+    "HID":93,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"磐手幼稚園",
@@ -3428,7 +3542,7 @@
        "coordinates":  [ 135.613856,34.805771 ]
     },
     "properties": {
-    "HID":91,
+    "HID":94,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"三箇牧幼稚園",
@@ -3466,7 +3580,7 @@
        "coordinates":  [ 135.591239,34.828865 ]
     },
     "properties": {
-    "HID":92,
+    "HID":95,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"富田幼稚園",
@@ -3504,7 +3618,7 @@
        "coordinates":  [ 135.633484,34.826823 ]
     },
     "properties": {
-    "HID":93,
+    "HID":96,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"南大冠幼稚園",
@@ -3542,7 +3656,7 @@
        "coordinates":  [ 135.589654,34.955645 ]
     },
     "properties": {
-    "HID":94,
+    "HID":97,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"樫田幼稚園",
@@ -3580,9 +3694,9 @@
        "coordinates":  [ 135.624638,34.830892 ]
     },
     "properties": {
-    "HID":95,
+    "HID":98,
     "Type":"幼稚園",
-    "Kodomo":"Y",
+    "Kodomo":"",
     "Name":"桜台認定こども園",
     "Label":"桜台認定こども園",
     "AgeS":"",
@@ -3618,7 +3732,7 @@
        "coordinates":  [ 135.607461,34.825718 ]
     },
     "properties": {
-    "HID":96,
+    "HID":99,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"芝生幼稚園",
@@ -3656,7 +3770,7 @@
        "coordinates":  [ 135.61259,34.870561 ]
     },
     "properties": {
-    "HID":97,
+    "HID":100,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"日吉台幼稚園",
@@ -3694,7 +3808,7 @@
        "coordinates":  [ 135.623238,34.837057 ]
     },
     "properties": {
-    "HID":98,
+    "HID":101,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"西大冠幼稚園",
@@ -3732,7 +3846,7 @@
        "coordinates":  [ 135.604098,34.819529 ]
     },
     "properties": {
-    "HID":99,
+    "HID":102,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"玉川幼稚園",
@@ -3770,7 +3884,7 @@
        "coordinates":  [ 135.661401,34.85965 ]
     },
     "properties": {
-    "HID":100,
+    "HID":103,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"上牧幼稚園",
@@ -3808,7 +3922,7 @@
        "coordinates":  [ 135.605047,34.880965 ]
     },
     "properties": {
-    "HID":101,
+    "HID":104,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"北清水幼稚園",
@@ -3846,7 +3960,7 @@
        "coordinates":  [ 135.606109,34.843067 ]
     },
     "properties": {
-    "HID":102,
+    "HID":105,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"津之江幼稚園",
@@ -3884,7 +3998,7 @@
        "coordinates":  [ 135.600718,34.793262 ]
     },
     "properties": {
-    "HID":103,
+    "HID":106,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"柱本幼稚園",
@@ -3922,7 +4036,7 @@
        "coordinates":  [ 135.596534,34.850471 ]
     },
     "properties": {
-    "HID":104,
+    "HID":107,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"郡家幼稚園",
@@ -3960,7 +4074,7 @@
        "coordinates":  [ 135.577705,34.848719 ]
     },
     "properties": {
-    "HID":105,
+    "HID":108,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"土室幼稚園",
@@ -3998,7 +4112,7 @@
        "coordinates":  [ 135.600509,34.833235 ]
     },
     "properties": {
-    "HID":106,
+    "HID":109,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"五百住幼稚園",
@@ -4036,7 +4150,7 @@
        "coordinates":  [ 135.632095,34.845867 ]
     },
     "properties": {
-    "HID":107,
+    "HID":110,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"松原幼稚園",
