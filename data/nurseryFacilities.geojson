@@ -9,7 +9,7 @@
     },
     "properties": {
     "HID":1,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"高槻保育所",
     "Label":"高槻保育所",
@@ -19,13 +19,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"北園町６−１３",
+    "Add2":"北園町６－１３",
     "TEL":"072-685-0833",
     "FAX":"072-685-0833",
     "Owner":"",
@@ -35,8 +35,8 @@
     "Y":34.852118,
     "X":135.622133,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/takatsuki.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -47,7 +47,7 @@
     },
     "properties": {
     "HID":2,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"如是保育所",
     "Label":"如是保育所",
@@ -57,13 +57,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"東五百住町三丁目５−１２",
+    "Add2":"東五百住町三丁目５－１２",
     "TEL":"072-696-0161",
     "FAX":"072-696-0161",
     "Owner":"",
@@ -73,8 +73,8 @@
     "Y":34.836819,
     "X":135.599335,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/nyoze.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -85,7 +85,7 @@
     },
     "properties": {
     "HID":3,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"芥川保育所",
     "Label":"芥川保育所",
@@ -95,13 +95,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"芥川町四丁目２−２０",
+    "Add2":"芥川町四丁目２－２０",
     "TEL":"072-684-0861",
     "FAX":"072-684-0861",
     "Owner":"",
@@ -111,8 +111,8 @@
     "Y":34.850956,
     "X":135.610632,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/akutagawa.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -123,7 +123,7 @@
     },
     "properties": {
     "HID":4,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"大塚保育所",
     "Label":"大塚保育所",
@@ -133,13 +133,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"大塚町二丁目２０−５",
+    "Add2":"大塚町二丁目２０－５",
     "TEL":"072-671-2246",
     "FAX":"072-671-2246",
     "Owner":"",
@@ -149,8 +149,8 @@
     "Y":34.825502,
     "X":135.636499,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/otsuka.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -161,7 +161,7 @@
     },
     "properties": {
     "HID":5,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"柳川保育所",
     "Label":"柳川保育所",
@@ -171,13 +171,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"栄町一丁目２４−１",
+    "Add2":"栄町一丁目２４－１",
     "TEL":"072-696-9286",
     "FAX":"072-696-9286",
     "Owner":"",
@@ -187,8 +187,8 @@
     "Y":34.826515,
     "X":135.595405,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/nagikawa.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -199,7 +199,7 @@
     },
     "properties": {
     "HID":6,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"富田保育所",
     "Label":"富田保育所",
@@ -209,13 +209,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"富田町二丁目５−１",
+    "Add2":"富田町二丁目５－１",
     "TEL":"072-694-9176",
     "FAX":"072-694-9290",
     "Owner":"",
@@ -225,8 +225,8 @@
     "Y":34.832918,
     "X":135.590826,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/tonda.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -237,7 +237,7 @@
     },
     "properties": {
     "HID":7,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"阿武野保育所",
     "Label":"阿武野保育所",
@@ -247,13 +247,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮田町二丁目３４−１８",
+    "Add2":"宮田町二丁目３４－１８",
     "TEL":"072-696-3801",
     "FAX":"072-696-3801",
     "Owner":"",
@@ -263,8 +263,8 @@
     "Y":34.844822,
     "X":135.588165,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/abuno.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -275,7 +275,7 @@
     },
     "properties": {
     "HID":8,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"五領保育所",
     "Label":"五領保育所",
@@ -285,13 +285,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"上牧北駅前町８−１",
+    "Add2":"上牧北駅前町８－１",
     "TEL":"072-681-0951",
     "FAX":"072-681-0951",
     "Owner":"",
@@ -301,8 +301,8 @@
     "Y":34.86936,
     "X":135.658423,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/goryo.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -313,7 +313,7 @@
     },
     "properties": {
     "HID":9,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"磐手保育所",
     "Label":"磐手保育所",
@@ -323,13 +323,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"古曽部町二丁目８−９",
+    "Add2":"古曽部町二丁目８－９",
     "TEL":"072-683-8188",
     "FAX":"072-683-8188",
     "Owner":"",
@@ -339,8 +339,8 @@
     "Y":34.855941,
     "X":135.624678,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/iwate.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -351,7 +351,7 @@
     },
     "properties": {
     "HID":10,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"川西保育所",
     "Label":"川西保育所",
@@ -361,13 +361,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"川西町二丁目３２−１",
+    "Add2":"川西町二丁目３２－１",
     "TEL":"072-683-3378",
     "FAX":"072-683-3378",
     "Owner":"",
@@ -377,8 +377,8 @@
     "Y":34.846857,
     "X":135.605037,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/kawanishi.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -389,7 +389,7 @@
     },
     "properties": {
     "HID":11,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"北昭和台保育所",
     "Label":"北昭和台保育所",
@@ -399,13 +399,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"北昭和台町１８−７",
+    "Add2":"北昭和台町１８－７",
     "TEL":"072-694-8866",
     "FAX":"072-694-8866",
     "Owner":"",
@@ -415,8 +415,8 @@
     "Y":34.832499,
     "X":135.586406,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/kitashowadai.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -427,7 +427,7 @@
     },
     "properties": {
     "HID":12,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"春日保育所",
     "Label":"春日保育所",
@@ -437,13 +437,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"春日町２２−２",
+    "Add2":"春日町２２－２",
     "TEL":"072-673-5022",
     "FAX":"072-673-5022",
     "Owner":"",
@@ -453,8 +453,8 @@
     "Y":34.836876,
     "X":135.627235,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/kasuga.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -465,7 +465,7 @@
     },
     "properties": {
     "HID":13,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"芝生保育所",
     "Label":"芝生保育所",
@@ -475,13 +475,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"芝生町二丁目１０−３０",
+    "Add2":"芝生町二丁目１０－３０",
     "TEL":"072-677-4475",
     "FAX":"072-677-4475",
     "Owner":"",
@@ -491,8 +491,8 @@
     "Y":34.831311,
     "X":135.606228,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_hoikusyo/shibafu.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -503,7 +503,7 @@
     },
     "properties": {
     "HID":14,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"願行寺保育園",
     "Label":"願行寺保育園",
@@ -513,13 +513,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"土橋町２−７",
+    "Add2":"土橋町２－７",
     "TEL":"072-674-4041",
     "FAX":"072-674-5466",
     "Owner":"",
@@ -529,8 +529,8 @@
     "Y":34.841165,
     "X":135.621886,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/gangyoji.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -541,7 +541,7 @@
     },
     "properties": {
     "HID":15,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"下田部保育園",
     "Label":"下田部保育園",
@@ -551,13 +551,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"登町１−１",
+    "Add2":"登町１－１",
     "TEL":"072-671-9960",
     "FAX":"072-673-8039",
     "Owner":"",
@@ -567,8 +567,8 @@
     "Y":34.830631,
     "X":135.621277,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/shimotanabe.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -579,7 +579,7 @@
     },
     "properties": {
     "HID":16,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"日輪保育園",
     "Label":"日輪保育園",
@@ -589,13 +589,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"牧田町７−５８",
+    "Add2":"牧田町７－５８",
     "TEL":"072-695-6008",
     "FAX":"072-694-1063",
     "Owner":"",
@@ -605,8 +605,8 @@
     "Y":34.820828,
     "X":135.603435,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/nichirin.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -617,7 +617,7 @@
     },
     "properties": {
     "HID":17,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"大手保育園",
     "Label":"大手保育園",
@@ -627,13 +627,13 @@
     "Open":"7:15",
     "Close":"19:15",
     "H24":"",
-    "Memo":"18:15-19:15",
+    "Memo":"延長保育は18:15-19:15",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"大手町２−２８",
+    "Add2":"大手町２－２８",
     "TEL":"072-676-1784",
     "FAX":"072-676-1996",
     "Owner":"",
@@ -643,8 +643,8 @@
     "Y":34.846663,
     "X":135.623474,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/ote.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -655,7 +655,7 @@
     },
     "properties": {
     "HID":18,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"南総持寺保育園",
     "Label":"南総持寺保育園",
@@ -665,13 +665,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"南総持寺町７−４",
+    "Add2":"南総持寺町７－４",
     "TEL":"072-693-8531",
     "FAX":"072-693-8531",
     "Owner":"",
@@ -681,8 +681,8 @@
     "Y":34.824719,
     "X":135.587656,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/minami_s.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -693,7 +693,7 @@
     },
     "properties": {
     "HID":19,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"ひむろこだま保育園(分園含む)",
     "Label":"ひむろこだま保育園(分園含む)",
@@ -703,13 +703,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"氷室町一丁目２１−１２",
+    "Add2":"氷室町一丁目２１－１２",
     "TEL":"072-695-1516",
     "FAX":"072-695-4781",
     "Owner":"",
@@ -719,8 +719,8 @@
     "Y":34.848158,
     "X":135.592186,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/himurokodama.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -731,7 +731,7 @@
     },
     "properties": {
     "HID":20,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"梶原ピッコロ保育園",
     "Label":"梶原ピッコロ保育園",
@@ -741,13 +741,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"梶原一丁目６−１５",
+    "Add2":"梶原一丁目６－１５",
     "TEL":"072-682-7901",
     "FAX":"072-682-7080",
     "Owner":"",
@@ -757,8 +757,8 @@
     "Y":34.86634,
     "X":135.649905,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/pikkoro.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -769,7 +769,7 @@
     },
     "properties": {
     "HID":21,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"ずし保育園",
     "Label":"ずし保育園",
@@ -779,13 +779,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:01-19:00",
+    "Memo":"延長保育は18:01-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"辻子三丁目５３−１",
+    "Add2":"辻子三丁目５３－１",
     "TEL":"072-676-3344",
     "FAX":"072-676-3318",
     "Owner":"",
@@ -795,19 +795,19 @@
     "Y":34.826863,
     "X":135.627401,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/zushi.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.636598,34.843980 ]
+       "coordinates":  [ 135.636598,34.84398 ]
     },
     "properties": {
     "HID":22,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"大冠保育園",
     "Label":"大冠保育園",
@@ -817,13 +817,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"天川新町１０−２８",
+    "Add2":"天川新町１０－２８",
     "TEL":"072-676-1064",
     "FAX":"072-675-1133",
     "Owner":"",
@@ -833,8 +833,8 @@
     "Y":34.84398,
     "X":135.636598,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/okammuri.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -845,7 +845,7 @@
     },
     "properties": {
     "HID":23,
-    "Type":"認可保育所",
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"郡家保育園",
     "Label":"郡家保育園",
@@ -855,13 +855,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"郡家本町２６−４",
+    "Add2":"郡家本町２６－４",
     "TEL":"072-681-8246",
     "FAX":"072-681-3388",
     "Owner":"",
@@ -871,46 +871,8 @@
     "Y":34.853734,
     "X":135.600348,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/koge.html",
-    "Vacancy":"",
-    "VacancyDate":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 135.598605,34.824925 ]
-    },
-    "properties": {
-    "HID":24,
-    "Type":"認可保育所",
-    "Kodomo":"",
-    "Name":"川添保育園",
-    "Label":"川添保育園",
-    "AgeS":"０歳児",
-    "AgeE":"５歳児",
-    "Full":"120",
-    "Open":"7:00",
-    "Close":"19:00",
-    "H24":"",
-    "Memo":"18:00-19:00",
-    "Extra":"",
-    "Temp":"Y",
-    "Holiday":"",
-    "Night":"",
-    "Add1":"大阪府高槻市",
-    "Add2":"西町４８−８",
-    "TEL":"072-692-0185",
-    "FAX":"072-692-1877",
-    "Owner":"",
-    "Ownership":"民間保育園",
-    "Proof":"",
-    "Shanai":"",
-    "Y":34.824925,
-    "X":135.598605,
-    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/kawazoe.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -920,8 +882,8 @@
        "coordinates":  [ 135.626215,34.858637 ]
     },
     "properties": {
-    "HID":25,
-    "Type":"認可保育所",
+    "HID":24,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"別所保育園",
     "Label":"別所保育園",
@@ -931,13 +893,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:01-19:00",
+    "Memo":"延長保育は18:01-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"別所中の町３−１５",
+    "Add2":"別所中の町３－１５",
     "TEL":"072-685-1123",
     "FAX":"072-685-1263",
     "Owner":"",
@@ -947,46 +909,8 @@
     "Y":34.858637,
     "X":135.626215,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/bessho.html",
-    "Vacancy":"",
-    "VacancyDate":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 135.638331,34.847344 ]
-    },
-    "properties": {
-    "HID":26,
-    "Type":"認可保育所",
-    "Kodomo":"",
-    "Name":"天川保育園",
-    "Label":"天川保育園",
-    "AgeS":"０歳児",
-    "AgeE":"５歳児",
-    "Full":"90",
-    "Open":"7:00",
-    "Close":"19:00",
-    "H24":"",
-    "Memo":"18:00-19:00",
-    "Extra":"",
-    "Temp":"Y",
-    "Holiday":"",
-    "Night":"",
-    "Add1":"大阪府高槻市",
-    "Add2":"永楽町１０−２",
-    "TEL":"072-662-6700",
-    "FAX":"072-662-6800",
-    "Owner":"",
-    "Ownership":"民間保育園",
-    "Proof":"",
-    "Shanai":"",
-    "Y":34.847344,
-    "X":135.638331,
-    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/amakawa.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -996,24 +920,24 @@
        "coordinates":  [ 135.606914,34.858298 ]
     },
     "properties": {
-    "HID":27,
-    "Type":"認可保育所",
+    "HID":25,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"真上保育園(分園含む)",
     "Label":"真上保育園(分園含む)",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"90名、分園30名（4〜5歳）",
+    "Full":"90名、分園30名（4～5歳）",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"真上町三丁目３−１",
+    "Add2":"真上町三丁目３－１",
     "TEL":"072-683-5134",
     "FAX":"072-683-5123",
     "Owner":"",
@@ -1023,8 +947,8 @@
     "Y":34.858298,
     "X":135.606914,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/makami.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1034,8 +958,8 @@
        "coordinates":  [ 135.617163,34.852199 ]
     },
     "properties": {
-    "HID":28,
-    "Type":"認可保育所",
+    "HID":26,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"高槻あいわ保育園",
     "Label":"高槻あいわ保育園",
@@ -1045,13 +969,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"7:00-7:30、18:30-19:00",
+    "Memo":"延長保育は7:00-7:30、18:30-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"芥川町一丁目２−Ｂ１１４",
+    "Add2":"芥川町一丁目２－Ｂ１１４",
     "TEL":"072-682-4152",
     "FAX":"072-682-4153",
     "Owner":"",
@@ -1061,8 +985,8 @@
     "Y":34.852199,
     "X":135.617163,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/aiwa.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1072,7 +996,7 @@
        "coordinates":  [ 135.635376,34.851723 ]
     },
     "properties": {
-    "HID":29,
+    "HID":27,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"愛光認定こども園",
@@ -1083,13 +1007,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮野町７−１",
+    "Add2":"宮野町７－１",
     "TEL":"072-671-3308",
     "FAX":"072-671-3318",
     "Owner":"",
@@ -1099,8 +1023,8 @@
     "Y":34.851723,
     "X":135.635376,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/miyano.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1110,24 +1034,24 @@
        "coordinates":  [ 135.589491,34.862168 ]
     },
     "properties": {
-    "HID":30,
-    "Type":"認可保育所",
+    "HID":28,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"南平台保育園(分園含む)",
     "Label":"南平台保育園(分園含む)",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"90名、分園30名(4〜5歳)",
+    "Full":"90名、分園30名(4～5歳)",
     "Open":"7:00",
     "Close":"20:00",
     "H24":"",
-    "Memo":"18:01-20:00",
+    "Memo":"延長保育は18:01-20:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"南平台五丁目１−８",
+    "Add2":"南平台五丁目１－８",
     "TEL":"072-697-7577",
     "FAX":"072-697-6011",
     "Owner":"",
@@ -1137,8 +1061,8 @@
     "Y":34.862168,
     "X":135.589491,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/nanbeidai.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1148,8 +1072,8 @@
        "coordinates":  [ 135.621945,34.839245 ]
     },
     "properties": {
-    "HID":31,
-    "Type":"認可保育所",
+    "HID":29,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"城南宙保育園",
     "Label":"城南宙保育園",
@@ -1159,13 +1083,13 @@
     "Open":"7:00",
     "Close":"20:00",
     "H24":"",
-    "Memo":"18:00-20:00",
+    "Memo":"延長保育は18:00-20:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"城南町二丁目４５−１０",
+    "Add2":"城南町二丁目４５－１０",
     "TEL":"072-670-5077",
     "FAX":"072-670-5088",
     "Owner":"",
@@ -1175,8 +1099,8 @@
     "Y":34.839245,
     "X":135.621945,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/tahokai.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1186,24 +1110,24 @@
        "coordinates":  [ 135.660542,34.868338 ]
     },
     "properties": {
-    "HID":32,
+    "HID":30,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"和光認定こども園",
     "Label":"和光認定こども園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"120",
+    "Full":"128",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"上牧町二丁目３−１",
+    "Add2":"上牧町二丁目３－１",
     "TEL":"072-669-2236",
     "FAX":"072-669-2237",
     "Owner":"",
@@ -1213,8 +1137,8 @@
     "Y":34.868338,
     "X":135.660542,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/1330483285239.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1224,8 +1148,8 @@
        "coordinates":  [ 135.585988,34.849961 ]
     },
     "properties": {
-    "HID":33,
-    "Type":"認可保育所",
+    "HID":31,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"トーマスひむろ保育園",
     "Label":"トーマスひむろ保育園",
@@ -1235,13 +1159,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"氷室町三丁目３１−１１",
+    "Add2":"氷室町三丁目３１－１１",
     "TEL":"072-668-2085",
     "FAX":"072-668-2086",
     "Owner":"",
@@ -1251,8 +1175,8 @@
     "Y":34.849961,
     "X":135.585988,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/1330923483695.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1262,8 +1186,8 @@
        "coordinates":  [ 135.631177,34.860882 ]
     },
     "properties": {
-    "HID":34,
-    "Type":"認可保育所",
+    "HID":32,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"YMCAたかつきあま保育園",
     "Label":"YMCAたかつきあま保育園",
@@ -1273,13 +1197,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"安満中の町２５−１",
+    "Add2":"安満中の町２５－１",
     "TEL":"072-682-2077",
     "FAX":"",
     "Owner":"",
@@ -1289,19 +1213,19 @@
     "Y":34.860882,
     "X":135.631177,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/YMCA_ama.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.619080,34.851337 ]
+       "coordinates":  [ 135.61908,34.851337 ]
     },
     "properties": {
-    "HID":35,
-    "Type":"認可保育所",
+    "HID":33,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"たかつき駅前保育園",
     "Label":"たかつき駅前保育園",
@@ -1311,13 +1235,13 @@
     "Open":"7:30",
     "Close":"19:30",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"延長保育は18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"紺屋町１−１",
+    "Add2":"紺屋町１－１",
     "TEL":"072-683-1205",
     "FAX":"",
     "Owner":"",
@@ -1327,8 +1251,8 @@
     "Y":34.851337,
     "X":135.61908,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/takatsukiekimae.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1338,8 +1262,8 @@
        "coordinates":  [ 135.618607,34.848579 ]
     },
     "properties": {
-    "HID":36,
-    "Type":"認可保育所",
+    "HID":34,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"紺屋町保育園",
     "Label":"紺屋町保育園",
@@ -1349,13 +1273,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"紺屋町９−７",
+    "Add2":"紺屋町９－７",
     "TEL":"072-668-4152",
     "FAX":"",
     "Owner":"",
@@ -1365,8 +1289,8 @@
     "Y":34.848579,
     "X":135.618607,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/konyamachi.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1376,8 +1300,8 @@
        "coordinates":  [ 135.595475,34.838591 ]
     },
     "properties": {
-    "HID":37,
-    "Type":"認可保育所",
+    "HID":35,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"桜北町第一保育園",
     "Label":"桜北町第一保育園",
@@ -1387,13 +1311,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"桜ケ丘北町２−１２",
+    "Add2":"桜ケ丘北町２－１２",
     "TEL":"072-694-5588",
     "FAX":"",
     "Owner":"",
@@ -1403,19 +1327,19 @@
     "Y":34.838591,
     "X":135.595475,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/1427703155349.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.605160,34.868853 ]
+       "coordinates":  [ 135.60516,34.868853 ]
     },
     "properties": {
-    "HID":38,
-    "Type":"認可保育所",
+    "HID":36,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"ニコニコ園",
     "Label":"ニコニコ園",
@@ -1425,13 +1349,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"浦堂本町６０−１５",
+    "Add2":"浦堂本町６０－１５",
     "TEL":"072-687-8728",
     "FAX":"",
     "Owner":"",
@@ -1441,8 +1365,8 @@
     "Y":34.868853,
     "X":135.60516,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/1464337289375.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1452,7 +1376,7 @@
        "coordinates":  [ 135.624638,34.830892 ]
     },
     "properties": {
-    "HID":39,
+    "HID":37,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"桜台認定こども園",
@@ -1463,13 +1387,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"登町９−２",
+    "Add2":"登町９－２",
     "TEL":"072-674-5630",
     "FAX":"072-674-5635",
     "Owner":"",
@@ -1479,8 +1403,8 @@
     "Y":34.830892,
     "X":135.624638,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/kouritu_nintei_kodomoen/1330474755331.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1490,24 +1414,24 @@
        "coordinates":  [ 135.601689,34.813797 ]
     },
     "properties": {
-    "HID":40,
+    "HID":38,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　玉川橋保育園",
     "Label":"認定こども園　玉川橋保育園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"120",
+    "Full":"135",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"玉川二丁目４２−１",
+    "Add2":"玉川二丁目４２－１",
     "TEL":"072-678-1532",
     "FAX":"072-678-7316",
     "Owner":"",
@@ -1517,18 +1441,18 @@
     "Y":34.813797,
     "X":135.601689,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/tamagawabashi.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.631647,34.841770 ]
+       "coordinates":  [ 135.631647,34.84177 ]
     },
     "properties": {
-    "HID":41,
+    "HID":39,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　藤の里保育園",
@@ -1539,13 +1463,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"藤の里町３８−２８",
+    "Add2":"藤の里町３８－２８",
     "TEL":"072-672-0124",
     "FAX":"072-672-0125",
     "Owner":"",
@@ -1555,35 +1479,35 @@
     "Y":34.84177,
     "X":135.631647,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/fujinosato.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.600753,34.794180 ]
+       "coordinates":  [ 135.600753,34.79418 ]
     },
     "properties": {
-    "HID":42,
+    "HID":40,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　柱本保育園　こども未来学舎",
     "Label":"認定こども園　柱本保育園　こども未来学舎",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"120",
+    "Full":"135",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"柱本新町１０−１",
+    "Add2":"柱本新町１０－１",
     "TEL":"072-678-6925",
     "FAX":"072-678-6926",
     "Owner":"",
@@ -1593,18 +1517,18 @@
     "Y":34.79418,
     "X":135.600753,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/hashiramoto.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.612244,34.870850 ]
+       "coordinates":  [ 135.612244,34.87085 ]
     },
     "properties": {
-    "HID":43,
+    "HID":41,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　日吉台保育園",
@@ -1615,13 +1539,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"日吉台一番町２５−１",
+    "Add2":"日吉台一番町２５－１",
     "TEL":"072-689-9491",
     "FAX":"072-689-9493",
     "Owner":"",
@@ -1631,8 +1555,8 @@
     "Y":34.87085,
     "X":135.612244,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/hiyoshidai.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1642,24 +1566,24 @@
        "coordinates":  [ 135.599506,34.863695 ]
     },
     "properties": {
-    "HID":44,
+    "HID":42,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"浦堂認定こども園",
     "Label":"浦堂認定こども園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"160",
+    "Full":"175",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮之川原四丁目３−１",
+    "Add2":"宮之川原四丁目３－１",
     "TEL":"072-687-7237",
     "FAX":"072-668-1230",
     "Owner":"",
@@ -1669,8 +1593,8 @@
     "Y":34.863695,
     "X":135.599506,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/urado.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1680,7 +1604,7 @@
        "coordinates":  [ 135.607558,34.840042 ]
     },
     "properties": {
-    "HID":45,
+    "HID":43,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　津之江さくら保育園",
@@ -1691,13 +1615,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"津之江町一丁目３７−９",
+    "Add2":"津之江町一丁目３７－９",
     "TEL":"072-673-7015",
     "FAX":"072-675-2913",
     "Owner":"",
@@ -1707,8 +1631,8 @@
     "Y":34.840042,
     "X":135.607558,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/tsunoe.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1718,7 +1642,7 @@
        "coordinates":  [ 135.578067,34.85974 ]
     },
     "properties": {
-    "HID":46,
+    "HID":44,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"阿武山たつの子　認定こども園",
@@ -1729,13 +1653,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"阿武野二丁目２−１",
+    "Add2":"阿武野二丁目２－１",
     "TEL":"072-692-0306",
     "FAX":"072-692-0906",
     "Owner":"",
@@ -1745,8 +1669,8 @@
     "Y":34.85974,
     "X":135.578067,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/tatsunoko.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1756,7 +1680,7 @@
        "coordinates":  [ 135.606952,34.867555 ]
     },
     "properties": {
-    "HID":47,
+    "HID":45,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　聖ヶ丘保育園　こども未来学舎",
@@ -1767,13 +1691,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"芝谷町１９−７",
+    "Add2":"芝谷町１９－７",
     "TEL":"072-689-8720",
     "FAX":"072-689-8730",
     "Owner":"",
@@ -1783,8 +1707,8 @@
     "Y":34.867555,
     "X":135.606952,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/tatsumi.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1794,7 +1718,7 @@
        "coordinates":  [ 135.636813,34.830577 ]
     },
     "properties": {
-    "HID":48,
+    "HID":46,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　深沢ガーデン",
@@ -1805,13 +1729,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"東和町５６−１",
+    "Add2":"東和町５６－１",
     "TEL":"072-671-0331",
     "FAX":"072-674-8585",
     "Owner":"",
@@ -1821,8 +1745,8 @@
     "Y":34.830577,
     "X":135.636813,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/fukazawa.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1832,24 +1756,24 @@
        "coordinates":  [ 135.589437,34.868537 ]
     },
     "properties": {
-    "HID":49,
+    "HID":47,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"摂津峡認定こども園",
     "Label":"摂津峡認定こども園",
     "AgeS":"０歳児",
     "AgeE":"５歳児",
-    "Full":"90",
+    "Full":"105",
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"南平台五丁目６８−９",
+    "Add2":"南平台五丁目６８－９",
     "TEL":"072-697-2888",
     "FAX":"072-697-2877",
     "Owner":"",
@@ -1859,8 +1783,8 @@
     "Y":34.868537,
     "X":135.589437,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/1365059073268.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1870,7 +1794,7 @@
        "coordinates":  [ 135.624686,34.869104 ]
     },
     "properties": {
-    "HID":50,
+    "HID":48,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園　日吉幼稚園",
@@ -1881,13 +1805,13 @@
     "Open":"7:15",
     "Close":"19:15",
     "H24":"",
-    "Memo":"18:15-19:15",
+    "Memo":"延長保育は18:15-19:15",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"日吉台六番町１０−２",
+    "Add2":"日吉台六番町１０－２",
     "TEL":"072-688-6101",
     "FAX":"072-688-6555",
     "Owner":"",
@@ -1897,8 +1821,8 @@
     "Y":34.869104,
     "X":135.624686,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/seijogakuen.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1908,7 +1832,7 @@
        "coordinates":  [ 135.620942,34.852144 ]
     },
     "properties": {
-    "HID":51,
+    "HID":49,
     "Type":"認定こども園",
     "Kodomo":"Y",
     "Name":"認定こども園いまむらこどもえん",
@@ -1919,13 +1843,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"高槻町３−１６",
+    "Add2":"高槻町３－１６",
     "TEL":"072-685-0247",
     "FAX":"",
     "Owner":"",
@@ -1935,18 +1859,18 @@
     "Y":34.852144,
     "X":135.620942,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_nintei_kodomoen/imamura_kodomoen.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.591280,34.844724 ]
+       "coordinates":  [ 135.59128,34.844724 ]
     },
     "properties": {
-    "HID":52,
+    "HID":50,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"桜北町第二保育園",
@@ -1957,13 +1881,13 @@
     "Open":"7:00",
     "Close":"19:30",
     "H24":"",
-    "Memo":"7:00-7:30,18:30-19:30",
+    "Memo":"延長保育は7:00-7:30,18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮田町二丁目１７−３７",
+    "Add2":"宮田町二丁目１７－３７",
     "TEL":"072-628-6167",
     "FAX":"",
     "Owner":"",
@@ -1973,8 +1897,8 @@
     "Y":34.844724,
     "X":135.59128,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/sakura.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -1984,7 +1908,7 @@
        "coordinates":  [ 135.623002,34.839544 ]
     },
     "properties": {
-    "HID":53,
+    "HID":51,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"すくすくサポート・たんぽぽ保育園",
@@ -1995,13 +1919,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"7:00-7:30,18:30-19:00",
+    "Memo":"延長保育は7:00-7:30,18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"城南町二丁目４３−１０−２０１",
+    "Add2":"城南町二丁目４３－１０－２０１",
     "TEL":"072-675-3524",
     "FAX":"",
     "Owner":"",
@@ -2011,8 +1935,8 @@
     "Y":34.839544,
     "X":135.623002,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/sukusuku.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2022,7 +1946,7 @@
        "coordinates":  [ 135.608781,34.840381 ]
     },
     "properties": {
-    "HID":54,
+    "HID":52,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"マルヤマ保育所",
@@ -2033,13 +1957,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"7:00-7:30,18:30-19:00",
+    "Memo":"延長保育は7:00-7:30,18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"津之江町一丁目４１−８",
+    "Add2":"津之江町一丁目４１－８",
     "TEL":"072-671-0647",
     "FAX":"",
     "Owner":"",
@@ -2049,8 +1973,8 @@
     "Y":34.840381,
     "X":135.608781,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/maruyama.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2060,7 +1984,7 @@
        "coordinates":  [ 135.659325,34.871468 ]
     },
     "properties": {
-    "HID":55,
+    "HID":53,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"かんまき駅前保育園",
@@ -2071,13 +1995,13 @@
     "Open":"7:30",
     "Close":"19:30",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"延長保育は18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"神内二丁目１５−２１",
+    "Add2":"神内二丁目１５－２１",
     "TEL":"072-681-3256",
     "FAX":"",
     "Owner":"",
@@ -2087,8 +2011,8 @@
     "Y":34.871468,
     "X":135.659325,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/kanmaki.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2098,7 +2022,7 @@
        "coordinates":  [ 135.628444,34.848678 ]
     },
     "properties": {
-    "HID":56,
+    "HID":54,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"みなみまつばら保育園",
@@ -2109,13 +2033,13 @@
     "Open":"7:30",
     "Close":"19:30",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"延長保育は18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"南松原町７−１１",
+    "Add2":"南松原町７－１１",
     "TEL":"072-661-2274",
     "FAX":"",
     "Owner":"",
@@ -2125,8 +2049,8 @@
     "Y":34.848678,
     "X":135.628444,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/1343361124307.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2136,7 +2060,7 @@
        "coordinates":  [ 135.595703,34.847724 ]
     },
     "properties": {
-    "HID":57,
+    "HID":55,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"にこにこ保育園",
@@ -2147,13 +2071,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"7:00-7:30、18:30-19:00",
+    "Memo":"延長保育は7:00-7:30、18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"氷室町一丁目１４−２７",
+    "Add2":"氷室町一丁目１４－２７",
     "TEL":"072-696-9575",
     "FAX":"",
     "Owner":"",
@@ -2163,8 +2087,8 @@
     "Y":34.847724,
     "X":135.595703,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/nikoniko.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2174,7 +2098,7 @@
        "coordinates":  [ 135.609181,34.855941 ]
     },
     "properties": {
-    "HID":58,
+    "HID":56,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"風の子保育園",
@@ -2182,16 +2106,16 @@
     "AgeS":"０歳児",
     "AgeE":"２歳児",
     "Full":"19",
-    "Open":"7:30 7:00",
+    "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は7:00-7:30、18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"真上町二丁目３−２９",
+    "Add2":"真上町二丁目３－２９",
     "TEL":"072-685-0909",
     "FAX":"",
     "Owner":"",
@@ -2201,8 +2125,8 @@
     "Y":34.855941,
     "X":135.609181,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/kazenoko.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2212,7 +2136,7 @@
        "coordinates":  [ 135.607633,34.839826 ]
     },
     "properties": {
-    "HID":59,
+    "HID":57,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"津之江小規模保育園",
@@ -2223,13 +2147,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"津之江町一丁目３７−１１",
+    "Add2":"津之江町一丁目３７－１１",
     "TEL":"072-673-7015",
     "FAX":"",
     "Owner":"",
@@ -2239,8 +2163,8 @@
     "Y":34.839826,
     "X":135.607633,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/tunoe_syoukibo.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2250,7 +2174,7 @@
        "coordinates":  [ 135.638696,34.847366 ]
     },
     "properties": {
-    "HID":60,
+    "HID":58,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"スプラウトキッズ",
@@ -2261,13 +2185,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"野田三丁目１７−３",
+    "Add2":"野田三丁目１７－３",
     "TEL":"072-662-6700",
     "FAX":"",
     "Owner":"",
@@ -2277,8 +2201,8 @@
     "Y":34.847366,
     "X":135.638696,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/supurauto.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2288,7 +2212,7 @@
        "coordinates":  [ 135.598868,34.825075 ]
     },
     "properties": {
-    "HID":61,
+    "HID":59,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"さくらんぼハウス",
@@ -2299,13 +2223,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"川添一丁目６−６",
+    "Add2":"川添一丁目６－６",
     "TEL":"072-693-5713",
     "FAX":"",
     "Owner":"",
@@ -2315,8 +2239,8 @@
     "Y":34.825075,
     "X":135.598868,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/sakuranbo.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2326,7 +2250,7 @@
        "coordinates":  [ 135.637419,34.849105 ]
     },
     "properties": {
-    "HID":62,
+    "HID":60,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"キッズルームふたば",
@@ -2343,7 +2267,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮野町２１−１８",
+    "Add2":"宮野町２１－１８",
     "TEL":"072-675-8001",
     "FAX":"",
     "Owner":"",
@@ -2353,8 +2277,8 @@
     "Y":34.849105,
     "X":135.637419,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/kidsroom_futaba.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2364,7 +2288,7 @@
        "coordinates":  [ 135.589469,34.826445 ]
     },
     "properties": {
-    "HID":63,
+    "HID":61,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ユメ小規模保育園",
@@ -2375,13 +2299,13 @@
     "Open":"7:30",
     "Close":"19:30",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"延長保育は18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"北柳川町１６−２２",
+    "Add2":"北柳川町１６－２２",
     "TEL":"072-692-0577",
     "FAX":"",
     "Owner":"",
@@ -2391,8 +2315,8 @@
     "Y":34.826445,
     "X":135.589469,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/yume.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2402,7 +2326,7 @@
        "coordinates":  [ 135.615073,34.867357 ]
     },
     "properties": {
-    "HID":64,
+    "HID":62,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ちびっこランド日吉園",
@@ -2413,13 +2337,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"真上町六丁目１９−１",
+    "Add2":"真上町六丁目１９－１",
     "TEL":"072-689-9808",
     "FAX":"",
     "Owner":"",
@@ -2429,18 +2353,18 @@
     "Y":34.867357,
     "X":135.615073,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/tibikkoland_hiyosien.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.591170,34.838179 ]
+       "coordinates":  [ 135.59117,34.838179 ]
     },
     "properties": {
-    "HID":65,
+    "HID":63,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"桜北町第三保育園",
@@ -2451,13 +2375,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"7:00-7:30 18:30-19:00",
+    "Memo":"延長保育は7:00-7:30 18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"大畑町１６−１",
+    "Add2":"大畑町１６－１",
     "TEL":"072-628-7773",
     "FAX":"",
     "Owner":"",
@@ -2467,8 +2391,8 @@
     "Y":34.838179,
     "X":135.59117,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/sakurakitamachi_dai3.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2478,7 +2402,7 @@
        "coordinates":  [ 135.605165,34.868149 ]
     },
     "properties": {
-    "HID":66,
+    "HID":64,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"スズラン保育園",
@@ -2489,13 +2413,13 @@
     "Open":"7:30",
     "Close":"19:30",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"延長保育は18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"浦堂本町１８−３",
+    "Add2":"浦堂本町１８－３",
     "TEL":"072-680-1770",
     "FAX":"",
     "Owner":"",
@@ -2505,8 +2429,8 @@
     "Y":34.868149,
     "X":135.605165,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/suzuran.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2516,7 +2440,7 @@
        "coordinates":  [ 135.616205,34.853522 ]
     },
     "properties": {
-    "HID":67,
+    "HID":65,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"芥川赤ちゃんクラブ",
@@ -2527,13 +2451,13 @@
     "Open":"7:30",
     "Close":"19:30",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"延長保育は18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"芥川町一丁目１３−５",
+    "Add2":"芥川町一丁目１３－５",
     "TEL":"072-647-8268",
     "FAX":"",
     "Owner":"",
@@ -2543,8 +2467,8 @@
     "Y":34.853522,
     "X":135.616205,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/akutagawa_akachan.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2554,7 +2478,7 @@
        "coordinates":  [ 135.619515,34.849177 ]
     },
     "properties": {
-    "HID":68,
+    "HID":66,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ＮＯＺＯＭＩ保育園",
@@ -2565,13 +2489,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"高槻町１７−４",
+    "Add2":"高槻町１７－４",
     "TEL":"072-669-9603",
     "FAX":"",
     "Owner":"",
@@ -2581,8 +2505,8 @@
     "Y":34.849177,
     "X":135.619515,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/nozomi.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2592,7 +2516,7 @@
        "coordinates":  [ 135.616318,34.839267 ]
     },
     "properties": {
-    "HID":69,
+    "HID":67,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ひかり保育園",
@@ -2603,13 +2527,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"庄所町８−４２",
+    "Add2":"庄所町８－４２",
     "TEL":"072-671-2331",
     "FAX":"",
     "Owner":"",
@@ -2619,8 +2543,8 @@
     "Y":34.839267,
     "X":135.616318,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/hikari.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2630,7 +2554,7 @@
        "coordinates":  [ 135.633597,34.822521 ]
     },
     "properties": {
-    "HID":70,
+    "HID":68,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ゆめの保育園",
@@ -2641,13 +2565,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"大塚町一丁目１９−３",
+    "Add2":"大塚町一丁目１９－３",
     "TEL":"072-668-7966",
     "FAX":"",
     "Owner":"",
@@ -2657,18 +2581,18 @@
     "Y":34.822521,
     "X":135.633597,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/yumeno.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.613963,34.839870 ]
+       "coordinates":  [ 135.613963,34.83987 ]
     },
     "properties": {
-    "HID":71,
+    "HID":69,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"庄所保育園",
@@ -2679,13 +2603,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"庄所町４−３５",
+    "Add2":"庄所町４－３５",
     "TEL":"072-601-8150",
     "FAX":"",
     "Owner":"",
@@ -2695,8 +2619,8 @@
     "Y":34.83987,
     "X":135.613963,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/minkan_syoukibo/syoudokoro.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2706,7 +2630,7 @@
        "coordinates":  [ 135.599501,34.871393 ]
     },
     "properties": {
-    "HID":72,
+    "HID":70,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"エンゼル園",
@@ -2717,13 +2641,13 @@
     "Open":"8:00",
     "Close":"19:30",
     "H24":"",
-    "Memo":"19:00-19:30",
+    "Memo":"延長保育は19:00-19:30",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"松が丘一丁目２１−９",
+    "Add2":"松が丘一丁目２１－９",
     "TEL":"072-688-5138",
     "FAX":"",
     "Owner":"",
@@ -2733,8 +2657,8 @@
     "Y":34.871393,
     "X":135.599501,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/zigyousyonai/enzeruen.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2744,7 +2668,7 @@
        "coordinates":  [ 135.629724,34.850203 ]
     },
     "properties": {
-    "HID":73,
+    "HID":71,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"のばら保育園たかつき",
@@ -2755,13 +2679,13 @@
     "Open":"7:30",
     "Close":"19:30",
     "H24":"",
-    "Memo":"18:30-19:30",
+    "Memo":"延長保育は18:30-19:30",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"南松原町１１−６",
+    "Add2":"南松原町１１－６",
     "TEL":"072-671-3355",
     "FAX":"",
     "Owner":"",
@@ -2771,8 +2695,8 @@
     "Y":34.850203,
     "X":135.629724,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/tiikigata_hoikujigyou/zigyousyonai/nobara.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2782,9 +2706,9 @@
        "coordinates":  [ 135.637419,34.849105 ]
     },
     "properties": {
-    "HID":74,
+    "HID":72,
     "Type":"認定こども園",
-    "Kodomo":"",
+    "Kodomo":"Y",
     "Name":"幼稚園型認定こども園　高槻双葉幼稚園",
     "Label":"幼稚園型認定こども園　高槻双葉幼稚園",
     "AgeS":"３歳児",
@@ -2799,7 +2723,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮野町２１−１８",
+    "Add2":"宮野町２１－１８",
     "TEL":"072-675-0250",
     "FAX":"",
     "Owner":"",
@@ -2809,8 +2733,8 @@
     "Y":34.849105,
     "X":135.637419,
     "url":"",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2820,7 +2744,7 @@
        "coordinates":  [ 135.610642,34.852512 ]
     },
     "properties": {
-    "HID":75,
+    "HID":73,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ＮＯＺＯＭＩ保育園　芥川園",
@@ -2831,13 +2755,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"芥川町４丁目６−２３",
+    "Add2":"芥川町４丁目６－２３",
     "TEL":"072-648-3305",
     "FAX":"",
     "Owner":"",
@@ -2847,8 +2771,8 @@
     "Y":34.852512,
     "X":135.610642,
     "url":"",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2858,7 +2782,7 @@
        "coordinates":  [ 135.604972,34.823303 ]
     },
     "properties": {
-    "HID":76,
+    "HID":74,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"すくすくサポート・ひまわり保育園",
@@ -2869,13 +2793,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"7:00-7:30、18:30-19:00",
+    "Memo":"延長保育は7:00-7:30、18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"川添２丁目３−１",
+    "Add2":"川添２丁目３－１",
     "TEL":"072-601-5656",
     "FAX":"",
     "Owner":"",
@@ -2885,8 +2809,8 @@
     "Y":34.823303,
     "X":135.604972,
     "url":"",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2896,7 +2820,7 @@
        "coordinates":  [ 135.625116,34.849941 ]
     },
     "properties": {
-    "HID":77,
+    "HID":75,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"城北あゆみ保育園",
@@ -2907,13 +2831,13 @@
     "Open":"7:00",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"城北町２丁目９−３０（１F）",
+    "Add2":"城北町２丁目９－３０（１F）",
     "TEL":"072-648-3123",
     "FAX":"",
     "Owner":"",
@@ -2923,8 +2847,8 @@
     "Y":34.849941,
     "X":135.625116,
     "url":"",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -2934,7 +2858,7 @@
        "coordinates":  [ 135.599195,34.864908 ]
     },
     "properties": {
-    "HID":78,
+    "HID":76,
     "Type":"地域型保育事業",
     "Kodomo":"",
     "Name":"ナナイロ保育園",
@@ -2945,13 +2869,13 @@
     "Open":"7:30",
     "Close":"19:00",
     "H24":"",
-    "Memo":"18:30-19:00",
+    "Memo":"延長保育は18:30-19:00",
     "Extra":"",
     "Temp":"",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮之川原４丁目１８−１",
+    "Add2":"宮之川原４丁目１８－１",
     "TEL":"072-687-2772",
     "FAX":"",
     "Owner":"",
@@ -2961,46 +2885,236 @@
     "Y":34.864908,
     "X":135.599195,
     "url":"",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.622613,34.847698 ]
+       "coordinates":  [ 135.598605,34.824925 ]
     },
     "properties": {
-    "HID":79,
-    "Type":"認定保育施設",
-    "Kodomo":"",
-    "Name":"ひよこ共同保育所",
-    "Label":"ひよこ共同保育所",
-    "AgeS":"産休明け",
-    "AgeE":"２歳児",
-    "Full":"13",
-    "Open":"7:30",
-    "Close":"18:30",
+    "HID":77,
+    "Type":"認定こども園",
+    "Kodomo":"Y",
+    "Name":"川添こども園",
+    "Label":"川添こども園",
+    "AgeS":"０歳児",
+    "AgeE":"５歳児",
+    "Full":"120",
+    "Open":"7:00",
+    "Close":"19:00",
     "H24":"",
-    "Memo":"応相談",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"京口町１−５",
-    "TEL":"072-671-2321",
-    "FAX":"",
+    "Add2":"西町４８－８",
+    "TEL":"072-692-0185",
+    "FAX":"072-692-1877",
     "Owner":"",
-    "Ownership":"認定保育施設",
+    "Ownership":"民間認定こども園",
     "Proof":"",
     "Shanai":"",
-    "Y":34.847698,
-    "X":135.622613,
-    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/hiyoko.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Y":34.824925,
+    "X":135.598605,
+    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/kawazoe.html",
+    "Vacancy":"null",
+    "VacancyDate":"null"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.638331,34.847344 ]
+    },
+    "properties": {
+    "HID":78,
+    "Type":"認定こども園",
+    "Kodomo":"Y",
+    "Name":"天川こども園",
+    "Label":"天川こども園",
+    "AgeS":"０歳児",
+    "AgeE":"５歳児",
+    "Full":"90",
+    "Open":"7:00",
+    "Close":"19:00",
+    "H24":"",
+    "Memo":"延長保育は18:00-19:00",
+    "Extra":"",
+    "Temp":"Y",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"永楽町１０－２",
+    "TEL":"072-662-6700",
+    "FAX":"072-662-6800",
+    "Owner":"",
+    "Ownership":"民間認定こども園",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.847344,
+    "X":135.638331,
+    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikuj/gyomuannai/hoikusyo/ninkahoikusyo/hoikusyo_kodomoen/minkan_hoikuen/amakawa.html",
+    "Vacancy":"null",
+    "VacancyDate":"null"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.622012,34.856502 ]
+    },
+    "properties": {
+    "HID":79,
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"古曽部風の子保育園",
+    "Label":"古曽部風の子保育園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"19",
+    "Open":"7:00",
+    "Close":"18:00",
+    "H24":"",
+    "Memo":"延長保育は18:00-19:00",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"古曽部町2－１４－２",
+    "TEL":"072-684-8210",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.856502,
+    "X":135.622012,
+    "url":"",
+    "Vacancy":"null",
+    "VacancyDate":"null"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.594417,34.834144 ]
+    },
+    "properties": {
+    "HID":80,
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"富田あゆみ保育園",
+    "Label":"富田あゆみ保育園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"19",
+    "Open":"7:00",
+    "Close":"18:00",
+    "H24":"",
+    "Memo":"延長保育は18:00-19:00",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"富田町３－７－２",
+    "TEL":"072-648-3337",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.834144,
+    "X":135.594417,
+    "url":"",
+    "Vacancy":"null",
+    "VacancyDate":"null"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.591676,34.835741 ]
+    },
+    "properties": {
+    "HID":81,
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"Pingu's English富田　小規模保育園",
+    "Label":"Pingu's English富田　小規模保育園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"19",
+    "Open":"7:30",
+    "Close":"18:30",
+    "H24":"",
+    "Memo":"延長保育は18:00-19:30",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"富田町１－１６－１７",
+    "TEL":"072-668-2855",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.835741,
+    "X":135.591676,
+    "url":"",
+    "Vacancy":"null",
+    "VacancyDate":"null"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.622694,34.825491 ]
+    },
+    "properties": {
+    "HID":82,
+    "Type":"地域型保育事業",
+    "Kodomo":"",
+    "Name":"サンライズキッズ保育園　高槻園",
+    "Label":"サンライズキッズ保育園　高槻園",
+    "AgeS":"０歳児",
+    "AgeE":"２歳児",
+    "Full":"19",
+    "Open":"7:00",
+    "Close":"18:00",
+    "H24":"",
+    "Memo":"延長保育は18:00-19:00",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"登町４３－５",
+    "TEL":"050-5807-2233",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"小規模保育事業",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.825491,
+    "X":135.622694,
+    "url":"",
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3010,8 +3124,8 @@
        "coordinates":  [ 135.616192,34.816488 ]
     },
     "properties": {
-    "HID":80,
-    "Type":"認定保育施設",
+    "HID":83,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"清和保育園",
     "Label":"清和保育園",
@@ -3021,13 +3135,13 @@
     "Open":"7:30",
     "Close":"18:30",
     "H24":"",
-    "Memo":"応相談",
+    "Memo":"延長保育は応相談",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"唐崎中二丁目７−１１",
+    "Add2":"唐崎中二丁目７－１１",
     "TEL":"072-678-1618",
     "FAX":"",
     "Owner":"",
@@ -3037,8 +3151,8 @@
     "Y":34.816488,
     "X":135.616192,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/seiwa.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3048,8 +3162,8 @@
        "coordinates":  [ 135.614655,34.840267 ]
     },
     "properties": {
-    "HID":81,
-    "Type":"認定保育施設",
+    "HID":84,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"Ｆ．Ｋｉｄｓ",
     "Label":"Ｆ．Ｋｉｄｓ",
@@ -3059,13 +3173,13 @@
     "Open":"7:30",
     "Close":"18:30",
     "H24":"",
-    "Memo":"応相談",
+    "Memo":"延長保育は18:30-20:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"城西町５−１７",
+    "Add2":"城西町５－１７",
     "TEL":"072-671-8811",
     "FAX":"",
     "Owner":"",
@@ -3075,46 +3189,8 @@
     "Y":34.840267,
     "X":135.614655,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/fkids.html",
-    "Vacancy":"",
-    "VacancyDate":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 135.619212,34.855292 ]
-    },
-    "properties": {
-    "HID":82,
-    "Type":"認可外保育施設",
-    "Kodomo":"",
-    "Name":"チャムきっずぱーく",
-    "Label":"チャムきっずぱーく",
-    "AgeS":"",
-    "AgeE":"",
-    "Full":"20",
-    "Open":"9:30",
-    "Close":"15:30",
-    "H24":"",
-    "Memo":"",
-    "Extra":"",
-    "Temp":"Y",
-    "Holiday":"",
-    "Night":"",
-    "Add1":"大阪府高槻市",
-    "Add2":"古曽部町一丁目１−８",
-    "TEL":"072-685-6336",
-    "FAX":"",
-    "Owner":"",
-    "Ownership":"認可外保育施設",
-    "Proof":"",
-    "Shanai":"",
-    "Y":34.855292,
-    "X":135.619212,
-    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/chamu.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3124,16 +3200,16 @@
        "coordinates":  [ 135.591805,34.845162 ]
     },
     "properties": {
-    "HID":83,
-    "Type":"認可外保育施設",
+    "HID":85,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"グローバルヴィレッジ　インターナショナルプレスクール　高槻校",
     "Label":"グローバルヴィレッジ　インターナショナルプレスクール　高槻校",
     "AgeS":"２歳児",
     "AgeE":"５歳児",
     "Full":"154",
-    "Open":"8:00",
-    "Close":"18:00",
+    "Open":"9:30",
+    "Close":"15:30",
     "H24":"",
     "Memo":"",
     "Extra":"",
@@ -3141,7 +3217,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮田町三丁目４−１０",
+    "Add2":"宮田町三丁目４－１０",
     "TEL":"072-694-6000",
     "FAX":"",
     "Owner":"",
@@ -3151,8 +3227,8 @@
     "Y":34.845162,
     "X":135.591805,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/global_village.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3162,8 +3238,8 @@
        "coordinates":  [ 135.617522,34.840222 ]
     },
     "properties": {
-    "HID":84,
-    "Type":"認可外保育施設",
+    "HID":86,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"あいあいひろば",
     "Label":"あいあいひろば",
@@ -3173,13 +3249,13 @@
     "Open":"7:30",
     "Close":"18:00",
     "H24":"",
-    "Memo":"18:00-19:00",
+    "Memo":"延長保育は18:00-19:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"高西町１−１立山荘２０１号室、２０２号室",
+    "Add2":"高西町１－１立山荘２０１号室、２０２号室",
     "TEL":"072-661-6208",
     "FAX":"",
     "Owner":"",
@@ -3189,8 +3265,8 @@
     "Y":34.840222,
     "X":135.617522,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/1432196174323.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3200,8 +3276,8 @@
        "coordinates":  [ 135.615728,34.853936 ]
     },
     "properties": {
-    "HID":85,
-    "Type":"認可外保育施設",
+    "HID":87,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"キンダーキッズ　インターナショナルスクール　高槻校",
     "Label":"キンダーキッズ　インターナショナルスクール　高槻校",
@@ -3211,13 +3287,13 @@
     "Open":"7:45",
     "Close":"18:15",
     "H24":"",
-    "Memo":"18:15-19:00",
+    "Memo":"延長保育は18:15-19:00",
     "Extra":"",
-    "Temp":"",
+    "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"天神町一丁目１−１",
+    "Add2":"天神町一丁目１－１",
     "TEL":"072-685-7780",
     "FAX":"",
     "Owner":"",
@@ -3227,8 +3303,8 @@
     "Y":34.853936,
     "X":135.615728,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/1432256049052.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3238,8 +3314,8 @@
        "coordinates":  [ 135.589375,34.826407 ]
     },
     "properties": {
-    "HID":86,
-    "Type":"認可外保育施設",
+    "HID":88,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"夢保育園",
     "Label":"夢保育園",
@@ -3249,13 +3325,13 @@
     "Open":"7:30",
     "Close":"18:00",
     "H24":"",
-    "Memo":"18:00-19:30",
+    "Memo":"延長保育は18:00-19:30",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"北柳川町１６−２２",
+    "Add2":"北柳川町１６－２２",
     "TEL":"072-692-0828",
     "FAX":"",
     "Owner":"",
@@ -3265,8 +3341,8 @@
     "Y":34.826407,
     "X":135.589375,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/1432259041409.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3276,24 +3352,24 @@
        "coordinates":  [ 135.623046,34.836477 ]
     },
     "properties": {
-    "HID":87,
-    "Type":"認可外保育施設",
+    "HID":89,
+    "Type":"保育所",
     "Kodomo":"",
     "Name":"つばさ保育園",
     "Label":"つばさ保育園",
     "AgeS":"０歳児",
     "AgeE":"就学前",
     "Full":"23",
-    "Open":"7:00",
-    "Close":"18:00",
+    "Open":"7:30",
+    "Close":"18:30",
     "H24":"",
-    "Memo":"18:00-20:00",
+    "Memo":"延長保育は18:00-20:00",
     "Extra":"",
     "Temp":"Y",
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"城南町３−５−２５",
+    "Add2":"城南町３－５－２５",
     "TEL":"072-655-1366",
     "FAX":"",
     "Owner":"",
@@ -3303,8 +3379,46 @@
     "Y":34.836477,
     "X":135.623046,
     "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/1454571459763.html",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.605170,34.868860 ]
+    },
+    "properties": {
+    "HID":90,
+    "Type":"保育所",
+    "Kodomo":"",
+    "Name":"キラキラ園",
+    "Label":"キラキラ園",
+    "AgeS":"０歳児",
+    "AgeE":"５歳児",
+    "Full":"10",
+    "Open":"7:30",
+    "Close":"17:30",
+    "H24":"",
+    "Memo":"",
+    "Extra":"",
+    "Temp":"",
+    "Holiday":"",
+    "Night":"",
+    "Add1":"大阪府高槻市",
+    "Add2":"浦堂本町６０－１８パストラルコートａ１０３",
+    "TEL":"072-687-8728",
+    "FAX":"",
+    "Owner":"",
+    "Ownership":"認可外保育施設",
+    "Proof":"",
+    "Shanai":"",
+    "Y":34.86886,
+    "X":135.60517,
+    "url":"http://www.city.takatsuki.osaka.jp/kakuka/kodomo/hoikus/gyomuannai/ninkagai_shisetsu/ninkagai_kobetsu/1512433810034.html",
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3314,7 +3428,7 @@
        "coordinates":  [ 135.626838,34.845478 ]
     },
     "properties": {
-    "HID":88,
+    "HID":91,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"高槻幼稚園",
@@ -3331,7 +3445,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"本町３−６９",
+    "Add2":"本町３－６９",
     "TEL":"072-675-5050",
     "FAX":"",
     "Owner":"",
@@ -3341,8 +3455,8 @@
     "Y":34.845478,
     "X":135.626838,
     "url":"http://www.takatsuki-osk.ed.jp/takatsukiyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3352,7 +3466,7 @@
        "coordinates":  [ 135.613282,34.854639 ]
     },
     "properties": {
-    "HID":89,
+    "HID":92,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"芥川幼稚園",
@@ -3369,7 +3483,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"真上町一丁目２−６",
+    "Add2":"真上町一丁目２－６",
     "TEL":"072-685-1441",
     "FAX":"",
     "Owner":"",
@@ -3379,8 +3493,8 @@
     "Y":34.854639,
     "X":135.613282,
     "url":"http://www.takatsuki-osk.ed.jp/akutagawayo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3390,7 +3504,7 @@
        "coordinates":  [ 135.58566,34.850949 ]
     },
     "properties": {
-    "HID":90,
+    "HID":93,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"阿武野幼稚園",
@@ -3407,7 +3521,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"氷室町四丁目１６−１",
+    "Add2":"氷室町四丁目１６－１",
     "TEL":"072-696-0074",
     "FAX":"",
     "Owner":"",
@@ -3417,8 +3531,8 @@
     "Y":34.850949,
     "X":135.58566,
     "url":"http://www.takatsuki-osk.ed.jp/abunoyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3428,7 +3542,7 @@
        "coordinates":  [ 135.652678,34.862007 ]
     },
     "properties": {
-    "HID":91,
+    "HID":94,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"五領幼稚園",
@@ -3445,7 +3559,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"五領町１２−１",
+    "Add2":"五領町１２－１",
     "TEL":"072-669-3620",
     "FAX":"",
     "Owner":"",
@@ -3455,8 +3569,8 @@
     "Y":34.862007,
     "X":135.652678,
     "url":"http://www.takatsuki-osk.ed.jp/goryoyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3466,7 +3580,7 @@
        "coordinates":  [ 135.597843,34.865798 ]
     },
     "properties": {
-    "HID":92,
+    "HID":95,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"清水幼稚園",
@@ -3483,7 +3597,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"宮之川原五丁目４−１",
+    "Add2":"宮之川原五丁目４－１",
     "TEL":"072-687-5080",
     "FAX":"",
     "Owner":"",
@@ -3493,8 +3607,8 @@
     "Y":34.865798,
     "X":135.597843,
     "url":"http://www.takatsuki-osk.ed.jp/shimizuyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3504,7 +3618,7 @@
        "coordinates":  [ 135.628592,34.86196 ]
     },
     "properties": {
-    "HID":93,
+    "HID":96,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"磐手幼稚園",
@@ -3521,7 +3635,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"別所本町９−６",
+    "Add2":"別所本町９－６",
     "TEL":"072-685-5275",
     "FAX":"",
     "Owner":"",
@@ -3531,8 +3645,8 @@
     "Y":34.86196,
     "X":135.628592,
     "url":"http://www.takatsuki-osk.ed.jp/iwateyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3542,7 +3656,7 @@
        "coordinates":  [ 135.613856,34.805771 ]
     },
     "properties": {
-    "HID":94,
+    "HID":97,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"三箇牧幼稚園",
@@ -3559,7 +3673,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"三島江一丁目１３−６",
+    "Add2":"三島江一丁目１３－６",
     "TEL":"072-678-0014",
     "FAX":"",
     "Owner":"",
@@ -3569,8 +3683,8 @@
     "Y":34.805771,
     "X":135.613856,
     "url":"http://www.takatsuki-osk.ed.jp/sangamakiyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3580,7 +3694,7 @@
        "coordinates":  [ 135.591239,34.828865 ]
     },
     "properties": {
-    "HID":95,
+    "HID":98,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"富田幼稚園",
@@ -3597,7 +3711,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"昭和台町一丁目１−１",
+    "Add2":"昭和台町一丁目１－１",
     "TEL":"072-696-2407",
     "FAX":"",
     "Owner":"",
@@ -3607,8 +3721,8 @@
     "Y":34.828865,
     "X":135.591239,
     "url":"http://www.takatsuki-osk.ed.jp/tondayo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3618,7 +3732,7 @@
        "coordinates":  [ 135.633484,34.826823 ]
     },
     "properties": {
-    "HID":96,
+    "HID":99,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"南大冠幼稚園",
@@ -3635,7 +3749,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"大塚町一丁目４−８",
+    "Add2":"大塚町一丁目４－８",
     "TEL":"072-671-1370",
     "FAX":"",
     "Owner":"",
@@ -3645,8 +3759,8 @@
     "Y":34.826823,
     "X":135.633484,
     "url":"http://www.takatsuki-osk.ed.jp/minamiokanmuriyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3656,7 +3770,7 @@
        "coordinates":  [ 135.589654,34.955645 ]
     },
     "properties": {
-    "HID":97,
+    "HID":100,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"樫田幼稚園",
@@ -3673,7 +3787,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"大字田能小字スハノ下１２−１　",
+    "Add2":"大字田能小字スハノ下１２－１",
     "TEL":"072-688-9228",
     "FAX":"",
     "Owner":"",
@@ -3683,8 +3797,8 @@
     "Y":34.955645,
     "X":135.589654,
     "url":"http://www.takatsuki-osk.ed.jp/kashidayo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3694,7 +3808,7 @@
        "coordinates":  [ 135.624638,34.830892 ]
     },
     "properties": {
-    "HID":98,
+    "HID":101,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"桜台認定こども園",
@@ -3711,7 +3825,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"登町９−２",
+    "Add2":"登町９－２",
     "TEL":"072-674-5630",
     "FAX":"",
     "Owner":"",
@@ -3721,8 +3835,8 @@
     "Y":34.830892,
     "X":135.624638,
     "url":"http://www.takatsuki-osk.ed.jp/sakuradaiyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3732,7 +3846,7 @@
        "coordinates":  [ 135.607461,34.825718 ]
     },
     "properties": {
-    "HID":99,
+    "HID":102,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"芝生幼稚園",
@@ -3749,7 +3863,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"芝生町三丁目３０−１",
+    "Add2":"芝生町三丁目３０－１",
     "TEL":"072-677-2445",
     "FAX":"",
     "Owner":"",
@@ -3759,8 +3873,8 @@
     "Y":34.825718,
     "X":135.607461,
     "url":"http://www.takatsuki-osk.ed.jp/shiboyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3770,7 +3884,7 @@
        "coordinates":  [ 135.61259,34.870561 ]
     },
     "properties": {
-    "HID":100,
+    "HID":103,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"日吉台幼稚園",
@@ -3787,7 +3901,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"日吉台一番町２４−１０",
+    "Add2":"日吉台一番町２４－１０",
     "TEL":"072-687-1531",
     "FAX":"",
     "Owner":"",
@@ -3797,8 +3911,8 @@
     "Y":34.870561,
     "X":135.61259,
     "url":"http://www.takatsuki-osk.ed.jp/hiyoshidaiyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3808,7 +3922,7 @@
        "coordinates":  [ 135.623238,34.837057 ]
     },
     "properties": {
-    "HID":101,
+    "HID":104,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"西大冠幼稚園",
@@ -3825,7 +3939,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"城南町三丁目１−２",
+    "Add2":"城南町三丁目１－２",
     "TEL":"072-675-5332",
     "FAX":"",
     "Owner":"",
@@ -3835,8 +3949,8 @@
     "Y":34.837057,
     "X":135.623238,
     "url":"http://www.takatsuki-osk.ed.jp/nishiokanmuriyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3846,7 +3960,7 @@
        "coordinates":  [ 135.604098,34.819529 ]
     },
     "properties": {
-    "HID":102,
+    "HID":105,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"玉川幼稚園",
@@ -3863,7 +3977,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"牧田町８−２",
+    "Add2":"牧田町８－２",
     "TEL":"072-695-3354",
     "FAX":"",
     "Owner":"",
@@ -3873,8 +3987,8 @@
     "Y":34.819529,
     "X":135.604098,
     "url":"http://www.takatsuki-osk.ed.jp/tamagawayo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3884,7 +3998,7 @@
        "coordinates":  [ 135.661401,34.85965 ]
     },
     "properties": {
-    "HID":103,
+    "HID":106,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"上牧幼稚園",
@@ -3901,7 +4015,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"上牧町四丁目２２−２",
+    "Add2":"上牧町四丁目２２－２",
     "TEL":"072-669-3623",
     "FAX":"",
     "Owner":"",
@@ -3911,8 +4025,8 @@
     "Y":34.85965,
     "X":135.661401,
     "url":"http://www.takatsuki-osk.ed.jp/kanmakiyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3922,7 +4036,7 @@
        "coordinates":  [ 135.605047,34.880965 ]
     },
     "properties": {
-    "HID":104,
+    "HID":107,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"北清水幼稚園",
@@ -3939,7 +4053,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"安岡寺町六丁目２−２",
+    "Add2":"安岡寺町六丁目２－２",
     "TEL":"072-687-1540",
     "FAX":"",
     "Owner":"",
@@ -3949,8 +4063,8 @@
     "Y":34.880965,
     "X":135.605047,
     "url":"http://www.takatsuki-osk.ed.jp/kitashimizuyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3960,7 +4074,7 @@
        "coordinates":  [ 135.606109,34.843067 ]
     },
     "properties": {
-    "HID":105,
+    "HID":108,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"津之江幼稚園",
@@ -3977,7 +4091,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"津之江北町７−２",
+    "Add2":"津之江北町７－２",
     "TEL":"072-673-9691",
     "FAX":"",
     "Owner":"",
@@ -3987,8 +4101,8 @@
     "Y":34.843067,
     "X":135.606109,
     "url":"http://www.takatsuki-osk.ed.jp/tsunoeyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -3998,7 +4112,7 @@
        "coordinates":  [ 135.600718,34.793262 ]
     },
     "properties": {
-    "HID":106,
+    "HID":109,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"柱本幼稚園",
@@ -4015,7 +4129,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"柱本新町１０−７",
+    "Add2":"柱本新町１０－７",
     "TEL":"072-677-2739",
     "FAX":"",
     "Owner":"",
@@ -4025,8 +4139,8 @@
     "Y":34.793262,
     "X":135.600718,
     "url":"http://www.takatsuki-osk.ed.jp/hashiramotoyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -4036,7 +4150,7 @@
        "coordinates":  [ 135.596534,34.850471 ]
     },
     "properties": {
-    "HID":107,
+    "HID":110,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"郡家幼稚園",
@@ -4053,7 +4167,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"郡家新町６８−３",
+    "Add2":"郡家新町６８－３",
     "TEL":"072-683-1888",
     "FAX":"",
     "Owner":"",
@@ -4063,8 +4177,8 @@
     "Y":34.850471,
     "X":135.596534,
     "url":"http://www.takatsuki-osk.ed.jp/gungeyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -4074,7 +4188,7 @@
        "coordinates":  [ 135.577705,34.848719 ]
     },
     "properties": {
-    "HID":108,
+    "HID":111,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"土室幼稚園",
@@ -4091,7 +4205,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"上土室六丁目１０−２",
+    "Add2":"上土室六丁目１０－２",
     "TEL":"072-694-7200",
     "FAX":"",
     "Owner":"",
@@ -4101,8 +4215,8 @@
     "Y":34.848719,
     "X":135.577705,
     "url":"http://www.takatsuki-osk.ed.jp/hamuroyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -4112,7 +4226,7 @@
        "coordinates":  [ 135.600509,34.833235 ]
     },
     "properties": {
-    "HID":109,
+    "HID":112,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"五百住幼稚園",
@@ -4129,7 +4243,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"登美の里町２４−２",
+    "Add2":"登美の里町２４－２",
     "TEL":"072-694-7251",
     "FAX":"",
     "Owner":"",
@@ -4139,8 +4253,8 @@
     "Y":34.833235,
     "X":135.600509,
     "url":"http://www.takatsuki-osk.ed.jp/yosumiyo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   },
   {
@@ -4150,7 +4264,7 @@
        "coordinates":  [ 135.632095,34.845867 ]
     },
     "properties": {
-    "HID":110,
+    "HID":113,
     "Type":"幼稚園",
     "Kodomo":"",
     "Name":"松原幼稚園",
@@ -4167,7 +4281,7 @@
     "Holiday":"",
     "Night":"",
     "Add1":"大阪府高槻市",
-    "Add2":"沢良木町１８−２",
+    "Add2":"沢良木町１８－２",
     "TEL":"072-676-1413",
     "FAX":"",
     "Owner":"",
@@ -4177,8 +4291,8 @@
     "Y":34.845867,
     "X":135.632095,
     "url":"http://www.takatsuki-osk.ed.jp/matsubarayo/",
-    "Vacancy":"",
-    "VacancyDate":""
+    "Vacancy":"null",
+    "VacancyDate":"null"
     }
   }
 ]
