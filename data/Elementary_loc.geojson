@@ -11,7 +11,6 @@
     "A27_005":1,
     "A27_006":"高槻市",
     "name":"高槻小学校",
-    "label":"高槻小学校",
     "address":"高槻市本町３−６９",
     "url":"http://www.takatsuki-osk.ed.jp/takasyo/"
     }
@@ -26,7 +25,6 @@
     "A27_005":2,
     "A27_006":"高槻市",
     "name":"芥川小学校",
-    "label":"芥川小学校",
     "address":"高槻市真上町一丁目２−３",
     "url":"http://www.takatsuki-osk.ed.jp/akutagawa/"
     }
@@ -41,7 +39,6 @@
     "A27_005":3,
     "A27_006":"高槻市",
     "name":"磐手小学校",
-    "label":"磐手小学校",
     "address":"高槻市安満西の町２７−１",
     "url":"http://www.takatsuki-osk.ed.jp/iwate/"
     }
@@ -56,7 +53,6 @@
     "A27_005":4,
     "A27_006":"高槻市",
     "name":"清水小学校",
-    "label":"清水小学校",
     "address":"高槻市宮之川原四丁目２０−１",
     "url":"http://www.takatsuki-osk.ed.jp/shimizu/"
     }
@@ -71,7 +67,6 @@
     "A27_005":5,
     "A27_006":"高槻市",
     "name":"如是小学校",
-    "label":"如是小学校",
     "address":"高槻市如是町２−３",
     "url":"http://www.takatsuki-osk.ed.jp/nyozesyo/"
     }
@@ -86,7 +81,6 @@
     "A27_005":6,
     "A27_006":"高槻市",
     "name":"阿武野小学校",
-    "label":"阿武野小学校",
     "address":"高槻市氷室町四丁目４−５",
     "url":"http://www.takatsuki-osk.ed.jp/abunosyo/"
     }
@@ -101,7 +95,6 @@
     "A27_005":7,
     "A27_006":"高槻市",
     "name":"五領小学校",
-    "label":"五領小学校",
     "address":"高槻市五領町１２−１",
     "url":"http://www.takatsuki-osk.ed.jp/goryosyo/"
     }
@@ -116,7 +109,6 @@
     "A27_005":8,
     "A27_006":"高槻市",
     "name":"桃園小学校",
-    "label":"桃園小学校",
     "address":"高槻市桃園町３−２７",
     "url":"http://www.takatsuki-osk.ed.jp/touen/"
     }
@@ -131,7 +123,6 @@
     "A27_005":9,
     "A27_006":"高槻市",
     "name":"三箇牧小学校",
-    "label":"三箇牧小学校",
     "address":"高槻市三島江一丁目１３−６",
     "url":"http://www.takatsuki-osk.ed.jp/sangamaki/"
     }
@@ -146,7 +137,6 @@
     "A27_005":10,
     "A27_006":"高槻市",
     "name":"川西小学校",
-    "label":"川西小学校",
     "address":"高槻市川西町一丁目３４−７",
     "url":"http://www.takatsuki-osk.ed.jp/kawasyo/"
     }
@@ -161,7 +151,6 @@
     "A27_005":11,
     "A27_006":"高槻市",
     "name":"富田小学校",
-    "label":"富田小学校",
     "address":"高槻市昭和台町一丁目１−１",
     "url":"http://www.takatsuki-osk.ed.jp/tonda/"
     }
@@ -176,7 +165,6 @@
     "A27_005":12,
     "A27_006":"高槻市",
     "name":"樫田小学校",
-    "label":"樫田小学校",
     "address":"高槻市大字田能小字岡崎６",
     "url":"http://www.takatsuki-osk.ed.jp/kashida/"
     }
@@ -191,7 +179,6 @@
     "A27_005":13,
     "A27_006":"高槻市",
     "name":"大冠小学校",
-    "label":"大冠小学校",
     "address":"高槻市天川町４２−２",
     "url":"http://www.takatsuki-osk.ed.jp/okanmuri/"
     }
@@ -206,7 +193,6 @@
     "A27_005":14,
     "A27_006":"高槻市",
     "name":"南大冠小学校",
-    "label":"南大冠小学校",
     "address":"高槻市大塚町一丁目４−８",
     "url":"http://www.takatsuki-osk.ed.jp/nankan/"
     }
@@ -221,7 +207,6 @@
     "A27_005":15,
     "A27_006":"高槻市",
     "name":"柳川小学校",
-    "label":"柳川小学校",
     "address":"高槻市西町２−１",
     "url":"http://www.takatsuki-osk.ed.jp/yanasyo/"
     }
@@ -236,7 +221,6 @@
     "A27_005":16,
     "A27_006":"高槻市",
     "name":"北大冠小学校",
-    "label":"北大冠小学校",
     "address":"高槻市宮野町１０−５",
     "url":"http://www.takatsuki-osk.ed.jp/kitakan/"
     }
@@ -251,7 +235,6 @@
     "A27_005":17,
     "A27_006":"高槻市",
     "name":"桜台小学校",
-    "label":"桜台小学校",
     "address":"高槻市登町９−１",
     "url":"http://www.takatsuki-osk.ed.jp/sakuradai/"
     }
@@ -266,7 +249,6 @@
     "A27_005":18,
     "A27_006":"高槻市",
     "name":"芝生小学校",
-    "label":"芝生小学校",
     "address":"高槻市芝生町三丁目３０−１",
     "url":"http://www.takatsuki-osk.ed.jp/shibo/"
     }
@@ -281,7 +263,6 @@
     "A27_005":19,
     "A27_006":"高槻市",
     "name":"日吉台小学校",
-    "label":"日吉台小学校",
     "address":"高槻市日吉台一番町２４−１８",
     "url":"http://www.takatsuki-osk.ed.jp/hiyoshidai/"
     }
@@ -296,7 +277,6 @@
     "A27_005":20,
     "A27_006":"高槻市",
     "name":"西大冠小学校",
-    "label":"西大冠小学校",
     "address":"高槻市城南町三丁目１−１",
     "url":"http://www.takatsuki-osk.ed.jp/nishikan/"
     }
@@ -311,7 +291,6 @@
     "A27_005":21,
     "A27_006":"高槻市",
     "name":"玉川小学校",
-    "label":"玉川小学校",
     "address":"高槻市牧田町８−１",
     "url":"http://www.takatsuki-osk.ed.jp/tamagawa/"
     }
@@ -326,7 +305,6 @@
     "A27_005":22,
     "A27_006":"高槻市",
     "name":"上牧小学校",
-    "label":"上牧小学校",
     "address":"高槻市上牧町四丁目２２−１",
     "url":"http://www.takatsuki-osk.ed.jp/kanmaki/"
     }
@@ -341,7 +319,6 @@
     "A27_005":23,
     "A27_006":"高槻市",
     "name":"北清水小学校",
-    "label":"北清水小学校",
     "address":"高槻市安岡寺町六丁目２−１",
     "url":"http://www.takatsuki-osk.ed.jp/kitashimizu/"
     }
@@ -356,7 +333,6 @@
     "A27_005":24,
     "A27_006":"高槻市",
     "name":"赤大路小学校",
-    "label":"赤大路小学校",
     "address":"高槻市赤大路町１５−１",
     "url":"http://www.takatsuki-osk.ed.jp/akaoji/"
     }
@@ -371,7 +347,6 @@
     "A27_005":25,
     "A27_006":"高槻市",
     "name":"津之江小学校",
-    "label":"津之江小学校",
     "address":"高槻市津之江北町７−１",
     "url":"http://www.takatsuki-osk.ed.jp/tsunoe/"
     }
@@ -386,7 +361,6 @@
     "A27_005":26,
     "A27_006":"高槻市",
     "name":"冠小学校",
-    "label":"冠小学校",
     "address":"高槻市大冠町二丁目４０−２",
     "url":"http://www.takatsuki-osk.ed.jp/kansyo/"
     }
@@ -401,7 +375,6 @@
     "A27_005":27,
     "A27_006":"高槻市",
     "name":"柱本小学校",
-    "label":"柱本小学校",
     "address":"高槻市柱本新町１０−８",
     "url":"http://www.takatsuki-osk.ed.jp/hashiramoto/"
     }
@@ -416,7 +389,6 @@
     "A27_005":28,
     "A27_006":"高槻市",
     "name":"郡家小学校",
-    "label":"郡家小学校",
     "address":"高槻市郡家新町６８−１",
     "url":"http://www.takatsuki-osk.ed.jp/gunge/"
     }
@@ -431,7 +403,6 @@
     "A27_005":29,
     "A27_006":"高槻市",
     "name":"寿栄小学校",
-    "label":"寿栄小学校",
     "address":"高槻市栄町三丁目１１−２",
     "url":"http://www.takatsuki-osk.ed.jp/jyuei/"
     }
@@ -446,7 +417,6 @@
     "A27_005":30,
     "A27_006":"高槻市",
     "name":"土室小学校",
-    "label":"土室小学校",
     "address":"高槻市上土室六丁目１０−１",
     "url":"http://www.takatsuki-osk.ed.jp/hamuro/"
     }
@@ -461,7 +431,6 @@
     "A27_005":31,
     "A27_006":"高槻市",
     "name":"五百住小学校",
-    "label":"五百住小学校",
     "address":"高槻市登美の里町２４−１",
     "url":"http://www.takatsuki-osk.ed.jp/yosumi/"
     }
@@ -476,7 +445,6 @@
     "A27_005":32,
     "A27_006":"高槻市",
     "name":"竹の内小学校",
-    "label":"竹の内小学校",
     "address":"高槻市竹の内町６０−１",
     "url":"http://www.takatsuki-osk.ed.jp/takenouti/"
     }
@@ -491,7 +459,6 @@
     "A27_005":33,
     "A27_006":"高槻市",
     "name":"安岡寺小学校",
-    "label":"安岡寺小学校",
     "address":"高槻市安岡寺町一丁目６０−１",
     "url":"http://www.takatsuki-osk.ed.jp/ankouji/"
     }
@@ -506,7 +473,6 @@
     "A27_005":34,
     "A27_006":"高槻市",
     "name":"松原小学校",
-    "label":"松原小学校",
     "address":"高槻市沢良木町１８−１",
     "url":"http://www.takatsuki-osk.ed.jp/matsubara/"
     }
@@ -521,7 +487,6 @@
     "A27_005":35,
     "A27_006":"高槻市",
     "name":"若松小学校",
-    "label":"若松小学校",
     "address":"高槻市若松町２２−２",
     "url":"http://www.takatsuki-osk.ed.jp/wakamatsu/"
     }
@@ -536,7 +501,6 @@
     "A27_005":36,
     "A27_006":"高槻市",
     "name":"丸橋小学校",
-    "label":"丸橋小学校",
     "address":"高槻市芝生町三丁目１６−２",
     "url":"http://www.takatsuki-osk.ed.jp/marubashi/"
     }
@@ -551,7 +515,6 @@
     "A27_005":37,
     "A27_006":"高槻市",
     "name":"奥坂小学校",
-    "label":"奥坂小学校",
     "address":"高槻市別所本町３５−５",
     "url":"http://www.takatsuki-osk.ed.jp/okusaka/"
     }
@@ -566,7 +529,6 @@
     "A27_005":38,
     "A27_006":"高槻市",
     "name":"真上小学校",
-    "label":"真上小学校",
     "address":"高槻市西真上二丁目１７−１",
     "url":"http://www.takatsuki-osk.ed.jp/makami/"
     }
@@ -581,7 +543,6 @@
     "A27_005":39,
     "A27_006":"高槻市",
     "name":"南平台小学校",
-    "label":"南平台小学校",
     "address":"高槻市南平台五丁目２０−１",
     "url":"http://www.takatsuki-osk.ed.jp/nanpeidai/"
     }
@@ -596,7 +557,6 @@
     "A27_005":40,
     "A27_006":"高槻市",
     "name":"北日吉台小学校",
-    "label":"北日吉台小学校",
     "address":"高槻市日吉台三番町４−２０",
     "url":"http://www.takatsuki-osk.ed.jp/kitahiyoshi/"
     }
@@ -611,7 +571,6 @@
     "A27_005":41,
     "A27_006":"高槻市",
     "name":"阿武山小学校",
-    "label":"阿武山小学校",
     "address":"高槻市阿武野二丁目１−２",
     "url":"http://www.takatsuki-osk.ed.jp/abuyamasyo/"
     }
