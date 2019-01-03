@@ -209,6 +209,17 @@ $('#mainPage').on('pageshow', function() {
 	$('#cbNinkagai').click(function() {
 		papamamap.switchLayer(this.id, $(this).prop('checked'));
 	});
+	
+	/* 追加 2019-01-03 by D.YOSHIDA */
+	// 認可こども園チェックボックスのイベント設定
+	$('#cbKodomo').click(function() {
+		papamamap.switchLayer(this.id, $(this).prop('checked'));
+	});
+	
+	// 地域型保育事業チェックボックスのイベント設定
+	$('#cbChiikigata').click(function() {
+		papamamap.switchLayer(this.id, $(this).prop('checked'));
+	});
 
 	// 中学校区チェックボックスのイベント定義
 	$('#cbMiddleSchool').click(function() {
@@ -387,8 +398,12 @@ $('#mainPage').on('pageshow', function() {
 		papamamap.switchLayer($('#cbNinka').prop('id'), checkObj.ninka);
 		papamamap.switchLayer($('#cbNinkagai').prop('id'), checkObj.ninkagai);
 		papamamap.switchLayer($('#cbKindergarten').prop('id'), checkObj.kindergarten);
+		papamamap.switchLayer($('#cbKodomo').prop('id'), checkObj.kodomo);
+		papamamap.switchLayer($('#cbChiikigata').prop('id'), checkObj.chiikigata);
 		$('#cbNinka').prop('checked', checkObj.ninka).checkboxradio('refresh');
 		$('#cbNinkagai').prop('checked', checkObj.ninkagai).checkboxradio('refresh');
+		$('#cbKodomo').prop('checked', checkObj.kodomo).checkboxradio('refresh');
+		$('#cbChiikigata').prop('checked', checkObj.chiikigata).checkboxradio('refresh');
 		$('#cbKindergarten').prop('checked', checkObj.kindergarten).checkboxradio('refresh');
 	}
 

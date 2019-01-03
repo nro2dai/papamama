@@ -150,10 +150,12 @@ Papamamap.prototype.animatedMove = function(lon, lat, isTransform)
  */
 Papamamap.prototype.addNurseryFacilitiesLayer = function(facilitiesData)
 {
-    if(this.map.getLayers().getLength() >= 4) {
-        this.map.removeLayer(this.map.getLayers().item(4));
-        this.map.removeLayer(this.map.getLayers().item(4));
-        this.map.removeLayer(this.map.getLayers().item(4));
+    if(this.map.getLayers().getLength() >= 6) {
+        this.map.removeLayer(this.map.getLayers().item(6));
+        this.map.removeLayer(this.map.getLayers().item(6));
+        this.map.removeLayer(this.map.getLayers().item(6));
+        this.map.removeLayer(this.map.getLayers().item(6));
+        this.map.removeLayer(this.map.getLayers().item(6));
     }
 
     // 幼稚園
@@ -187,6 +189,28 @@ Papamamap.prototype.addNurseryFacilitiesLayer = function(facilitiesData)
             }),
             name: 'layerNinka',
             style: ninkaStyleFunction
+        })
+    );
+    // こども園
+    this.map.addLayer(
+        new ol.layer.Vector({
+            source: new ol.source.GeoJSON({
+                projection: 'EPSG:3857',
+                object: facilitiesData
+            }),
+            name: 'layerKodomo',
+            style: kodomoStyleFunction
+        })
+    );
+    // 地域型保育事業
+    this.map.addLayer(
+        new ol.layer.Vector({
+            source: new ol.source.GeoJSON({
+                projection: 'EPSG:3857',
+                object: facilitiesData
+            }),
+            name: 'layerChiikigata',
+            style: chiikigataStyleFunction
         })
     );
 };

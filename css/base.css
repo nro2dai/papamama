@@ -36,6 +36,16 @@
 	background-color: #FF5C24;
 }
 
+/* 追加 2019-01-03 by D.YOSHIDA */
+#lblKodomo.ui-checkbox-on {
+	background-color: #CC00FF;
+}
+
+/* 追加 2019-01-03 by D.YOSHIDA */
+#lblChiikigata.ui-checkbox-on {
+	background-color: #999999;
+}
+
 #lblMiddleSchool.ui-checkbox-on {
 	background-color: #7379AE;
 }

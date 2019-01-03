@@ -6,7 +6,9 @@ var featureStyleList = {
 	'default': { color: 'rgba(153, 153, 153, 1)', img: 'image/018.png'},
 	'認可外': { color: '#0362A0', img: 'image/019.png'},
 	'幼稚園': { color: '#FF5C24', img: 'image/029.png'},
-	'認可保育所': { color: '#6EE100', img: 'image/018.png'}
+	'認可保育所': { color: '#6EE100', img: 'image/018.png'},
+	'認定こども園': { color: '#CC00FF', img: 'image/019.png'},
+	'地域型保育事業': { color: '#999999', img: 'image/019.png'}
 };
 
 /**
@@ -54,6 +56,40 @@ var kindergartenStyleFunction = function(feature, resolution)
 	var facilityTypeName = feature.get('種別') ? feature.get('種別') : feature.get('Type');
 	var style = [];
 	if(facilityTypeName === "幼稚園") {
+		featureStyle = featureStyleList[facilityTypeName];
+		style        = nurseryStyleFunction(feature, resolution, featureStyle);
+	}
+	return style;
+};
+
+/**
+ * 認定こども園向けスタイル
+ * @param  {[type]} feature    [description]
+ * @param  {[type]} resolution [description]
+ * @return {[type]}            [description]
+ */
+var kodomoStyleFunction = function(feature, resolution)
+{
+	var facilityTypeName = feature.get('種別') ? feature.get('種別') : feature.get('Type');
+	var style = [];
+	if(facilityTypeName === "認定こども園") {
+		featureStyle = featureStyleList[facilityTypeName];
+		style        = nurseryStyleFunction(feature, resolution, featureStyle);
+	}
+	return style;
+};
+
+/**
+ * 地域型保育事業向けスタイル
+ * @param  {[type]} feature    [description]
+ * @param  {[type]} resolution [description]
+ * @return {[type]}            [description]
+ */
+var chiikigataStyleFunction = function(feature, resolution)
+{
+	var facilityTypeName = feature.get('種別') ? feature.get('種別') : feature.get('Type');
+	var style = [];
+	if(facilityTypeName === "地域型保育事業") {
 		featureStyle = featureStyleList[facilityTypeName];
 		style        = nurseryStyleFunction(feature, resolution, featureStyle);
 	}
