@@ -9,7 +9,7 @@
     },
     "properties": {
     "HID":1,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"高槻保育所",
     "Label":"高槻保育所",
@@ -47,7 +47,7 @@
     },
     "properties": {
     "HID":2,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"如是保育所",
     "Label":"如是保育所",
@@ -85,7 +85,7 @@
     },
     "properties": {
     "HID":3,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"芥川保育所",
     "Label":"芥川保育所",
@@ -123,7 +123,7 @@
     },
     "properties": {
     "HID":4,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"大塚保育所",
     "Label":"大塚保育所",
@@ -161,7 +161,7 @@
     },
     "properties": {
     "HID":5,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"柳川保育所",
     "Label":"柳川保育所",
@@ -199,7 +199,7 @@
     },
     "properties": {
     "HID":6,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"富田保育所",
     "Label":"富田保育所",
@@ -237,7 +237,7 @@
     },
     "properties": {
     "HID":7,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"阿武野保育所",
     "Label":"阿武野保育所",
@@ -275,7 +275,7 @@
     },
     "properties": {
     "HID":8,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"五領保育所",
     "Label":"五領保育所",
@@ -313,7 +313,7 @@
     },
     "properties": {
     "HID":9,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"磐手保育所",
     "Label":"磐手保育所",
@@ -351,7 +351,7 @@
     },
     "properties": {
     "HID":10,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"川西保育所",
     "Label":"川西保育所",
@@ -389,7 +389,7 @@
     },
     "properties": {
     "HID":11,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"北昭和台保育所",
     "Label":"北昭和台保育所",
@@ -427,7 +427,7 @@
     },
     "properties": {
     "HID":12,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"春日保育所",
     "Label":"春日保育所",
@@ -465,7 +465,7 @@
     },
     "properties": {
     "HID":13,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"芝生保育所",
     "Label":"芝生保育所",
@@ -503,7 +503,7 @@
     },
     "properties": {
     "HID":14,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"願行寺保育園",
     "Label":"願行寺保育園",
@@ -541,7 +541,7 @@
     },
     "properties": {
     "HID":15,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"下田部保育園",
     "Label":"下田部保育園",
@@ -579,7 +579,7 @@
     },
     "properties": {
     "HID":16,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"日輪保育園",
     "Label":"日輪保育園",
@@ -617,7 +617,7 @@
     },
     "properties": {
     "HID":17,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"大手保育園",
     "Label":"大手保育園",
@@ -655,7 +655,7 @@
     },
     "properties": {
     "HID":18,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"南総持寺保育園",
     "Label":"南総持寺保育園",
@@ -693,7 +693,7 @@
     },
     "properties": {
     "HID":19,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"ひむろこだま保育園(分園含む)",
     "Label":"ひむろこだま保育園(分園含む)",
@@ -731,7 +731,7 @@
     },
     "properties": {
     "HID":20,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"梶原ピッコロ保育園",
     "Label":"梶原ピッコロ保育園",
@@ -769,7 +769,7 @@
     },
     "properties": {
     "HID":21,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"ずし保育園",
     "Label":"ずし保育園",
@@ -807,7 +807,7 @@
     },
     "properties": {
     "HID":22,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"大冠保育園",
     "Label":"大冠保育園",
@@ -845,7 +845,7 @@
     },
     "properties": {
     "HID":23,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"郡家保育園",
     "Label":"郡家保育園",
@@ -883,7 +883,7 @@
     },
     "properties": {
     "HID":24,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"別所保育園",
     "Label":"別所保育園",
@@ -921,7 +921,7 @@
     },
     "properties": {
     "HID":25,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"真上保育園(分園含む)",
     "Label":"真上保育園(分園含む)",
@@ -959,7 +959,7 @@
     },
     "properties": {
     "HID":26,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"高槻あいわ保育園",
     "Label":"高槻あいわ保育園",
@@ -1035,7 +1035,7 @@
     },
     "properties": {
     "HID":28,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"南平台保育園(分園含む)",
     "Label":"南平台保育園(分園含む)",
@@ -1073,7 +1073,7 @@
     },
     "properties": {
     "HID":29,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"城南宙保育園",
     "Label":"城南宙保育園",
@@ -1149,7 +1149,7 @@
     },
     "properties": {
     "HID":31,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"トーマスひむろ保育園",
     "Label":"トーマスひむろ保育園",
@@ -1187,7 +1187,7 @@
     },
     "properties": {
     "HID":32,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"YMCAたかつきあま保育園",
     "Label":"YMCAたかつきあま保育園",
@@ -1225,7 +1225,7 @@
     },
     "properties": {
     "HID":33,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"たかつき駅前保育園",
     "Label":"たかつき駅前保育園",
@@ -1263,7 +1263,7 @@
     },
     "properties": {
     "HID":34,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"紺屋町保育園",
     "Label":"紺屋町保育園",
@@ -1301,7 +1301,7 @@
     },
     "properties": {
     "HID":35,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"桜北町第一保育園",
     "Label":"桜北町第一保育園",
@@ -1339,7 +1339,7 @@
     },
     "properties": {
     "HID":36,
-    "Type":"保育所",
+    "Type":"認可保育所",
     "Kodomo":"",
     "Name":"ニコニコ園",
     "Label":"ニコニコ園",
@@ -3125,7 +3125,7 @@
     },
     "properties": {
     "HID":83,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"清和保育園",
     "Label":"清和保育園",
@@ -3163,7 +3163,7 @@
     },
     "properties": {
     "HID":84,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"Ｆ．Ｋｉｄｓ",
     "Label":"Ｆ．Ｋｉｄｓ",
@@ -3201,7 +3201,7 @@
     },
     "properties": {
     "HID":85,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"グローバルヴィレッジ　インターナショナルプレスクール　高槻校",
     "Label":"グローバルヴィレッジ　インターナショナルプレスクール　高槻校",
@@ -3239,7 +3239,7 @@
     },
     "properties": {
     "HID":86,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"あいあいひろば",
     "Label":"あいあいひろば",
@@ -3277,7 +3277,7 @@
     },
     "properties": {
     "HID":87,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"キンダーキッズ　インターナショナルスクール　高槻校",
     "Label":"キンダーキッズ　インターナショナルスクール　高槻校",
@@ -3315,7 +3315,7 @@
     },
     "properties": {
     "HID":88,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"夢保育園",
     "Label":"夢保育園",
@@ -3353,7 +3353,7 @@
     },
     "properties": {
     "HID":89,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"つばさ保育園",
     "Label":"つばさ保育園",
@@ -3387,11 +3387,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 135.605170,34.868860 ]
+       "coordinates":  [ 135.60517,34.86886 ]
     },
     "properties": {
     "HID":90,
-    "Type":"保育所",
+    "Type":"認可外保育所",
     "Kodomo":"",
     "Name":"キラキラ園",
     "Label":"キラキラ園",
